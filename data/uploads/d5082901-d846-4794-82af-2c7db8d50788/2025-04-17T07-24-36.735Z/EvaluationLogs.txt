@@ -1,0 +1,16 @@
+2025-04-17 09:04:32.349 - Notification - You have earned 1 points.
+2025-04-17 09:05:29.845 - Notification - Game mode selected : achievements
+2025-04-17 09:05:32.353 - Notification - Game mode selected : leaderboard
+2025-04-17 09:09:09.309 - Notification - You have earned 1 points.
+2025-04-17 09:09:20.463 - Notification - You have earned 1 points.
+2025-04-17 09:10:23.068 - Notification - You have earned 1 points.
+2025-04-17 09:16:36.22 - Notification - You have earned 1 points.
+2025-04-17 09:19:40.516 - Notification - You have earned 2 points.
+2025-04-17 09:24:15.534 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:24:15.535 - Debug - Web socket state : Connecting
+2025-04-17 09:24:15.822 - Debug - Web socket state : Connected
+2025-04-17 09:24:15.881 - Notification - Connected to gamification server
+2025-04-17 09:24:15.883 - Debug - Websocket connection opened
+2025-04-17 09:24:59.092 - Debug - POST 2 files to https://gamification.thibber.be/api/v1/experimentData :- Actions.csv (533 bytes)
+- EvaluationLogs.txt (891 bytes)
+

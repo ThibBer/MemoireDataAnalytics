@@ -1,0 +1,27 @@
+id,name,description
+AddTestsAchievement,Safety First,Create X tests
+CoverXBranchesAchievement,Check your branches,Cover X branches with your tests. Attention: for this achievement the tracing option of the IntelliJ Runner must be enabled.
+CoverXClassesAchievement,Check your classes,Cover X classes with your tests
+CoverXLinesAchievement,Line-by-line,Cover X lines with your tests
+CoverXMethodsAchievement,Check your methods,Cover X methods with your tests
+FindXBugsAchievement,Bug Finder,Find bugs in the code with your tests. Your test code should be the same between the first failed test run and the first successful run.
+GetXBranchCoverageInClassesWithYBranchesAchievement,Class Reviewer - Branches,Cover 5 classes which have at least 15 branches by at least 75.0%. Attention: for this achievement the tracing option of the IntelliJ Runner must be enabled.
+GetXLineCoverageInClassesWithYLinesAchievement,Class Reviewer - Lines,Cover 5 classes which have at least 5 lines by at least 70.0%
+GetXMethodCoverageInClassesWithYMethodsAchievement,Class Reviewer - Methods,Cover 10 classes which have at least 3 methods by at least 60.0%
+RefactorAddXAssertionsAchievement,Double check,Add assertions to your tests.
+RefactorCodeAchievement,Shine in new splendour,Refactor test code between two consecutive passing test runs.
+RefactorExtractXMethodsAchievement,The Method Extractor,Extract methods
+RefactorInlineXMethodsAchievement,The Method Inliner,Inline methods
+RefactorXTestNamesAchievement,The Eponym,Give your tests better names
+RepairXWrongTestsAchievement,Test Fixer,Repair wrong tests
+RunWithCoverageAchievement,Gotta Catch ’Em All,Run your tests with coverage
+RunXDebuggerModeAchievement,The Debugger,You get this achievement by using the debug mode.
+RunXTestsAchievement,Test Executor,Every single test execution counts as progress
+RunXTestSuitesAchievement,The Tester,Can be achieved by running tests
+RunXTestSuitesWithXTestsAchievement,The Tester - Advanced,Run 10 times test suites containing at least 100 tests
+SetXBreakpointsAchievement,Take some breaks,Can be achieved by setting breakpoints
+SetXConditionalBreakpointsAchievement,Make Your Choice,Can be achieved by setting conditional breakpoints
+SetXFieldWatchpointsAchievement,On the Watch,Can be achieved by setting field watchpoints
+SetXLineBreakpointsAchievement,Break the Line,Can be achieved by setting line breakpoints
+SetXMethodBreakpointsAchievement,Break the Method,Can be achieved by setting method breakpoints
+TriggerXAssertsByTestsAchievement,Assert and Tested,Asserts have to be successfully passed by tests

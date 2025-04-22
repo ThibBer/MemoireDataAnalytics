@@ -1,0 +1,72 @@
+2025-04-17 09:06:39.73 - Notification - You have earned 9 points.
+2025-04-17 09:06:39.764 - Notification - You have earned 3 points.
+2025-04-17 09:06:57.166 - Notification - You have earned 9 points.
+2025-04-17 09:06:57.186 - Notification - You have earned 3 points.
+2025-04-17 09:07:06.101 - Notification - You have earned 9 points.
+2025-04-17 09:07:06.133 - Notification - You have earned 3 points.
+2025-04-17 09:07:10.778 - Notification - You have earned 9 points.
+2025-04-17 09:07:10.804 - Notification - You have earned 3 points.
+2025-04-17 09:07:15.354 - Notification - You have earned 9 points.
+2025-04-17 09:07:15.378 - Notification - You have earned 3 points.
+2025-04-17 09:07:44.095 - Notification - You have earned 9 points.
+2025-04-17 09:07:44.117 - Notification - You have earned 3 points.
+2025-04-17 09:07:50.203 - Notification - You have earned 9 points.
+2025-04-17 09:07:50.224 - Notification - You have earned 3 points.
+2025-04-17 09:07:53.634 - Notification - You have earned 9 points.
+2025-04-17 09:07:53.655 - Notification - You have earned 3 points.
+2025-04-17 09:07:57.291 - Notification - You have earned 9 points.
+2025-04-17 09:07:57.321 - Notification - You have earned 3 points.
+2025-04-17 09:11:24.206 - Notification - You have earned 51 points.
+2025-04-17 09:11:24.254 - Notification - You have earned 21 points.
+2025-04-17 09:11:50.107 - Debug - Websocket closing : User require disconnecting | code : 4001
+2025-04-17 09:11:50.108 - Debug - Web socket state : Disconnecting
+2025-04-17 09:11:50.11 - Debug - Websocket closed : User require disconnecting | code : 4001
+2025-04-17 09:11:50.111 - Debug - Web socket state : Disconnected
+2025-04-17 09:11:50.151 - Notification - Disconnected from gamification server
+2025-04-17 09:11:51.568 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:11:51.568 - Debug - Web socket state : Connecting
+2025-04-17 09:11:51.717 - Debug - Web socket state : Connected
+2025-04-17 09:11:51.725 - Notification - Connected to gamification server
+2025-04-17 09:11:51.726 - Debug - Websocket connection opened
+2025-04-17 09:12:29.102 - Notification - You have earned 816 points.
+2025-04-17 09:12:29.174 - Notification - You have earned 336 points.
+2025-04-17 09:14:03.063 - Error - Websocket failure : null
+2025-04-17 09:14:03.064 - Debug - Web socket state : Error
+2025-04-17 09:14:27.119 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:14:27.12 - Debug - Web socket state : Connecting
+2025-04-17 09:14:27.279 - Debug - Web socket state : Connected
+2025-04-17 09:14:27.281 - Notification - Connected to gamification server
+2025-04-17 09:14:27.282 - Debug - Websocket connection opened
+2025-04-17 09:14:46.587 - Notification - You have earned 2652 points.
+2025-04-17 09:14:46.731 - Notification - You have earned 1092 points.
+2025-04-17 09:18:05.233 - Debug - Websocket closing : User require disconnecting | code : 4001
+2025-04-17 09:18:05.235 - Debug - Web socket state : Disconnecting
+2025-04-17 09:18:05.235 - Debug - Websocket closed : User require disconnecting | code : 4001
+2025-04-17 09:18:05.235 - Debug - Web socket state : Disconnected
+2025-04-17 09:18:05.274 - Notification - Disconnected from gamification server
+2025-04-17 09:18:06.928 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:18:06.929 - Debug - Web socket state : Connecting
+2025-04-17 09:18:07.076 - Debug - Web socket state : Connected
+2025-04-17 09:18:07.078 - Notification - Connected to gamification server
+2025-04-17 09:18:07.079 - Debug - Websocket connection opened
+2025-04-17 09:18:11.012 - Debug - Websocket closing : User require disconnecting | code : 4001
+2025-04-17 09:18:11.013 - Debug - Web socket state : Disconnecting
+2025-04-17 09:18:11.014 - Debug - Websocket closed : User require disconnecting | code : 4001
+2025-04-17 09:18:11.015 - Debug - Web socket state : Disconnected
+2025-04-17 09:18:11.053 - Notification - Disconnected from gamification server
+2025-04-17 09:18:23.33 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:18:23.331 - Debug - Web socket state : Connecting
+2025-04-17 09:18:23.487 - Debug - Web socket state : Connected
+2025-04-17 09:18:23.488 - Notification - Connected to gamification server
+2025-04-17 09:18:23.488 - Debug - Websocket connection opened
+2025-04-17 09:21:48.948 - Notification - Game mode selected : achievements
+2025-04-17 09:22:04.542 - Notification - Game mode selected : leaderboard
+2025-04-17 09:23:19.484 - Notification - Game mode selected : achievements
+2025-04-17 09:23:28.804 - Notification - Game mode selected : leaderboard
+2025-04-17 09:25:07.463 - Debug - POST 2 files to https://gamification.thibber.be/api/v1/experimentData :- Actions.csv (2084 bytes)
+- EvaluationLogs.txt (4599 bytes)
+
+2025-04-17 09:25:07.684 - Notification - File successfully sent, thanks for your help ! 😉
+2025-04-17 09:25:09.453 - Debug - POST 2 files to https://gamification.thibber.be/api/v1/experimentData :- Actions.csv (2084 bytes)
+- EvaluationLogs.txt (4859 bytes)
+

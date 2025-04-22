@@ -1,0 +1,20 @@
+2025-04-17 09:08:51.877 - Notification - Congratulations! You unlocked level 2 of the 'Double check' achievement!
+2025-04-17 09:08:51.889 - Notification - You are making progress on an achievement! You have already reached 40,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:10:25.72 - Error - Websocket failure : null
+2025-04-17 09:10:25.721 - Debug - Web socket state : Error
+2025-04-17 09:10:34.47 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:12:59.063 - Notification - You are making progress on an achievement! You have already reached 40,00% of the next level of the 'Shine in new splendour' achievement!
+2025-04-17 09:12:59.08 - Notification - You are making progress on an achievement! You have already reached 60,00% of the next level of the 'Shine in new splendour' achievement!
+2025-04-17 09:12:59.087 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Shine in new splendour' achievement!
+2025-04-17 09:14:24.405 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:18:51.478 - Notification - Congratulations! You unlocked level 1 of the 'Safety First' achievement!
+2025-04-17 09:26:22.359 - Debug - POST 3 files to https://gamification.thibber.be/api/v1/experimentData :- EvaluationLogs.txt (1387 bytes)
+- AchievementsReport.csv (2352 bytes)
+- Actions.csv (1144 bytes)
+
+2025-04-17 09:26:22.654 - Notification - File successfully sent, thanks for your help ! 😉
+2025-04-17 09:27:31.004 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:27:40.009 - Debug - POST 3 files to https://gamification.thibber.be/api/v1/experimentData :- EvaluationLogs.txt (1859 bytes)
+- AchievementsReport.csv (2454 bytes)
+- Actions.csv (1235 bytes)
+

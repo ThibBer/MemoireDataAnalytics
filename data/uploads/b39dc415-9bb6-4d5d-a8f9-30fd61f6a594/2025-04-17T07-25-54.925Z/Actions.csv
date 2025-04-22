@@ -1,0 +1,13 @@
+Action,Name,Points,GameMode,Timestamp
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:10:29.103
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:10:29.162
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:14:51.278
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:16:55.777
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:19:14.383
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:19:52.306
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:20:47.481
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:21:04.205
+RunWithCoverageAchievement,Gotta Catch ’Em All,1,ACHIEVEMENTS,2025-04-17 09:21:04.223
+CoverXLinesAchievement,Line-by-line,7,ACHIEVEMENTS,2025-04-17 09:21:04.461
+CoverXMethodsAchievement,Check your methods,5,ACHIEVEMENTS,2025-04-17 09:21:04.493
+CoverXClassesAchievement,Check your classes,1,ACHIEVEMENTS,2025-04-17 09:21:04.557

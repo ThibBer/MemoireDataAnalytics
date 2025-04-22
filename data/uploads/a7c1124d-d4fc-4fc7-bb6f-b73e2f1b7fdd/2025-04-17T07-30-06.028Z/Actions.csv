@@ -1,0 +1,30 @@
+Action,Name,Points,GameMode,Timestamp
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:08:16.501
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:08:16.509
+RefactorAddXAssertionsAchievement,Double check,2,ACHIEVEMENTS,2025-04-17 09:09:28.276
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:10:33.004
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:11:46.74
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:11:46.745
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:12:24.145
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:12:29.006
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:13:09.296
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:15:20.87
+RefactorCodeAchievement,Shine in new splendour,1,ACHIEVEMENTS,2025-04-17 09:15:20.885
+RefactorCodeAchievement,Shine in new splendour,1,ACHIEVEMENTS,2025-04-17 09:15:20.891
+RefactorCodeAchievement,Shine in new splendour,1,ACHIEVEMENTS,2025-04-17 09:15:20.904
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:16:07.111
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:18:58.188
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:20:08.072
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:20:36.201
+TriggerXAssertsByTestsAchievement,Assert and Tested,3,ACHIEVEMENTS,2025-04-17 09:20:44.134
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:21:40.373
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:23:50.009
+TriggerXAssertsByTestsAchievement,Assert and Tested,5,ACHIEVEMENTS,2025-04-17 09:25:52.27
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:27:08.009
+RefactorAddXAssertionsAchievement,Double check,2,ACHIEVEMENTS,2025-04-17 09:27:53.765
+TriggerXAssertsByTestsAchievement,Assert and Tested,5,ACHIEVEMENTS,2025-04-17 09:29:51.028
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:29:51.754
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:29:53.945
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:29:56.331
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:29:56.361
+TriggerXAssertsByTestsAchievement,Assert and Tested,5,ACHIEVEMENTS,2025-04-17 09:29:56.379

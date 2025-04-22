@@ -1,0 +1,41 @@
+2025-04-17 09:15:14.414 - Notification - You have earned 8 points.
+2025-04-17 09:15:14.499 - Notification - You have earned 5 points.
+2025-04-17 09:15:14.564 - Notification - You have earned 1 points.
+2025-04-17 09:15:42.6 - Notification - You have earned 1 points.
+2025-04-17 09:16:57.751 - Error - Websocket failure : Connection reset
+2025-04-17 09:16:57.752 - Debug - Web socket state : Error
+2025-04-17 09:17:20.941 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:17:20.943 - Debug - Web socket state : Connecting
+2025-04-17 09:17:21.062 - Debug - Web socket state : Connected
+2025-04-17 09:17:21.063 - Notification - Connected to gamification server
+2025-04-17 09:17:21.063 - Debug - Websocket connection opened
+2025-04-17 09:17:57.918 - Error - Websocket failure : null
+2025-04-17 09:17:57.92 - Debug - Web socket state : Error
+2025-04-17 09:19:15.541 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:19:15.544 - Debug - Web socket state : Connecting
+2025-04-17 09:19:15.695 - Debug - Web socket state : Connected
+2025-04-17 09:19:15.697 - Notification - Connected to gamification server
+2025-04-17 09:19:15.698 - Debug - Websocket connection opened
+2025-04-17 09:24:31.056 - Notification - You have earned 4 points.
+2025-04-17 09:24:31.27 - Notification - You have earned 2 points.
+2025-04-17 09:24:31.315 - Notification - You have earned 1 points.
+2025-04-17 09:24:31.34 - Notification - You have earned 1 points.
+2025-04-17 09:24:31.387 - Notification - You have earned 1 points.
+2025-04-17 09:24:40.482 - Notification - You have earned 1 points.
+2025-04-17 09:24:40.518 - Notification - You have earned 1 points.
+2025-04-17 09:24:40.56 - Notification - You have earned 1 points.
+2025-04-17 09:24:40.603 - Notification - You have earned 1 points.
+2025-04-17 09:26:48.072 - Notification - Game mode selected : achievements
+2025-04-17 09:26:52.065 - Debug - POST 2 files to https://gamification.thibber.be/api/v1/experimentData :- Actions.csv (1288 bytes)
+- EvaluationLogs.txt (1870 bytes)
+
+2025-04-17 09:26:52.338 - Notification - File successfully sent, thanks for your help ! 😉
+2025-04-17 09:34:39.03 - Notification - Game mode selected : leaderboard
+2025-04-17 09:44:36.709 - Notification - Game mode selected : achievements
+2025-04-17 10:05:27.12 - Debug - POST 2 files to https://gamification.thibber.be/api/v1/experimentData :- Actions.csv (1288 bytes)
+- EvaluationLogs.txt (2278 bytes)
+
+2025-04-17 10:05:27.271 - Notification - File successfully sent, thanks for your help ! 😉
+2025-04-17 10:05:27.813 - Debug - POST 2 files to https://gamification.thibber.be/api/v1/experimentData :- Actions.csv (1288 bytes)
+- EvaluationLogs.txt (2537 bytes)
+

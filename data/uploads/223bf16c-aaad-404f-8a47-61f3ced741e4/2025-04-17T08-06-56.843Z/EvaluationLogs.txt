@@ -1,0 +1,190 @@
+2025-04-17 09:06:50.827 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Double check' achievement!
+2025-04-17 09:07:06.633 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:07:06.635 - Debug - Web socket state : Connecting
+2025-04-17 09:07:06.775 - Debug - Web socket state : Connected
+2025-04-17 09:07:06.776 - Notification - Connected to gamification server
+2025-04-17 09:07:06.776 - Debug - Websocket connection opened
+2025-04-17 09:08:44.749 - Error - Websocket failure : null
+2025-04-17 09:08:44.75 - Debug - Web socket state : Error
+2025-04-17 09:08:57.162 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'The Tester' achievement!
+2025-04-17 09:08:57.173 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:09:24.776 - Notification - You are making progress on an achievement! You have already reached 30,00% of the next level of the 'The Eponym' achievement!
+2025-04-17 09:09:29.819 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:09:29.829 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:09:50.552 - Notification - Congratulations! You unlocked level 1 of the 'The Tester' achievement!
+2025-04-17 09:09:50.561 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:10:06.448 - Notification - You are making progress on an achievement! You have already reached 26,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:10:06.458 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:10:06.462 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:10:06.574 - Notification - You are making progress on an achievement! You have already reached 40,00% of the next level of the 'Check your methods' achievement!
+2025-04-17 09:10:06.596 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Check your classes' achievement!
+2025-04-17 09:10:40.08 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:10:40.081 - Debug - Web socket state : Connecting
+2025-04-17 09:10:40.313 - Debug - Web socket state : Connected
+2025-04-17 09:10:40.313 - Notification - Connected to gamification server
+2025-04-17 09:10:40.313 - Debug - Websocket connection opened
+2025-04-17 09:10:47.293 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:11:12.612 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:12:41.095 - Notification - Congratulations! You unlocked level 1 of the 'Double check' achievement!
+2025-04-17 09:12:57.989 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:13:07.929 - Notification - You are making progress on an achievement! You have already reached 53,33% of the next level of the 'The Tester' achievement!
+2025-04-17 09:13:07.942 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:13:12.987 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:13:13.957 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:14:05.801 - Notification - You are making progress on an achievement! You have already reached 30,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:15:30.115 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:16:18.904 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'The Tester' achievement!
+2025-04-17 09:16:18.915 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:17:29.936 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:20:13.784 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:20:29.525 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:20:29.885 - Notification - Congratulations! You unlocked level 2 of the 'The Tester' achievement!
+2025-04-17 09:20:29.893 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:21:11.797 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:21:12.165 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:22:08.193 - Error - Websocket failure : null
+2025-04-17 09:22:08.195 - Debug - Web socket state : Error
+2025-04-17 09:22:48.965 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Double check' achievement!
+2025-04-17 09:23:03.907 - Notification - Congratulations! You unlocked level 1 of the 'Assert and Tested' achievement!
+2025-04-17 09:23:03.948 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:23:04.284 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:23:19.06 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:23:19.061 - Debug - Web socket state : Connecting
+2025-04-17 09:23:19.339 - Debug - Web socket state : Connected
+2025-04-17 09:23:19.34 - Notification - Connected to gamification server
+2025-04-17 09:23:19.341 - Debug - Websocket connection opened
+2025-04-17 09:24:40.223 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:26:01.115 - Debug - POST 4 files to https://gamification.thibber.be/api/v1/experimentData :- Coverage.csv (227 bytes)
+- EvaluationLogs.txt (6463 bytes)
+- AchievementsReport.csv (5056 bytes)
+- Actions.csv (3314 bytes)
+
+2025-04-17 09:26:01.261 - Notification - File successfully sent, thanks for your help ! 😉
+2025-04-17 09:39:18.441 - Error - Websocket failure : Operation timed out
+2025-04-17 09:39:18.443 - Debug - Web socket state : Error
+2025-04-17 09:43:11.634 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:43:11.637 - Debug - Web socket state : Connecting
+2025-04-17 09:43:11.878 - Debug - Web socket state : Connected
+2025-04-17 09:43:11.878 - Notification - Connected to gamification server
+2025-04-17 09:43:11.879 - Debug - Websocket connection opened
+2025-04-17 09:46:15.976 - Notification - Game mode selected : leaderboard
+2025-04-17 09:46:28.52 - Notification - You have earned 1 points.
+2025-04-17 09:46:28.526 - Notification - You have earned 1 points.
+2025-04-17 09:46:28.564 - Notification - You have earned 1 points.
+2025-04-17 09:46:28.6 - Notification - You have earned 1 points.
+2025-04-17 09:46:28.879 - Notification - You have earned 1 points.
+2025-04-17 09:47:34.354 - Notification - You have earned 1 points.
+2025-04-17 09:47:34.715 - Notification - You have earned 1 points.
+2025-04-17 09:47:43.951 - Notification - You have earned 1 points.
+2025-04-17 09:47:45.262 - Notification - You have earned 1 points.
+2025-04-17 09:47:54.346 - Notification - You have earned 2 points.
+2025-04-17 09:47:54.733 - Notification - You have earned 1 points.
+2025-04-17 09:49:10.596 - Notification - You have earned 1 points.
+2025-04-17 09:49:23.873 - Notification - You have earned 1 points.
+2025-04-17 09:49:37.02 - Notification - You have earned 0 points.
+2025-04-17 09:49:37.386 - Notification - You have earned 1 points.
+2025-04-17 09:50:04.146 - Notification - You have earned 1 points.
+2025-04-17 09:50:04.155 - Notification - You have earned 1 points.
+2025-04-17 09:50:08.409 - Notification - You have earned 1 points.
+2025-04-17 09:50:08.789 - Notification - You have earned 1 points.
+2025-04-17 09:50:55.828 - Notification - You have earned 1 points.
+2025-04-17 09:50:55.835 - Notification - You have earned 1 points.
+2025-04-17 09:51:00.133 - Notification - You have earned 1 points.
+2025-04-17 09:51:00.215 - Notification - You have earned 1 points.
+2025-04-17 09:51:00.506 - Notification - You have earned 1 points.
+2025-04-17 09:53:53.363 - Notification - You have earned 6 points.
+2025-04-17 09:53:53.37 - Notification - You have earned 1 points.
+2025-04-17 09:54:44.521 - Error - Websocket failure : null
+2025-04-17 09:54:44.525 - Debug - Web socket state : Error
+2025-04-17 09:54:56.46 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:54:56.462 - Debug - Web socket state : Connecting
+2025-04-17 09:54:56.687 - Debug - Web socket state : Connected
+2025-04-17 09:54:56.688 - Notification - Connected to gamification server
+2025-04-17 09:54:56.688 - Debug - Websocket connection opened
+2025-04-17 09:55:05.427 - Notification - You have earned 4 points.
+2025-04-17 09:55:05.801 - Notification - You have earned 1 points.
+2025-04-17 09:55:19.357 - Notification - You have earned 0 points.
+2025-04-17 09:55:19.736 - Notification - You have earned 1 points.
+2025-04-17 09:56:46.908 - Notification - You have earned 1 points.
+2025-04-17 09:56:50.928 - Notification - You have earned 0 points.
+2025-04-17 09:56:51.305 - Notification - You have earned 1 points.
+2025-04-17 09:57:05.562 - Notification - You have earned 1 points.
+2025-04-17 09:57:07.97 - Notification - You have earned 0 points.
+2025-04-17 09:57:08.346 - Notification - You have earned 1 points.
+2025-04-17 09:57:42.471 - Notification - You have earned 2 points.
+2025-04-17 09:57:57.957 - Notification - You have earned 1 points.
+2025-04-17 09:58:02.86 - Notification - You have earned 0 points.
+2025-04-17 09:58:02.884 - Notification - You have earned 0 points.
+2025-04-17 09:58:02.898 - Notification - You have earned 0 points.
+2025-04-17 09:58:02.931 - Notification - You have earned 0 points.
+2025-04-17 09:58:02.964 - Notification - You have earned 0 points.
+2025-04-17 09:58:02.995 - Notification - You have earned 0 points.
+2025-04-17 09:58:03.249 - Notification - You have earned 1 points.
+2025-04-17 09:58:06.868 - Notification - You have earned 0 points.
+2025-04-17 09:58:06.893 - Notification - You have earned 0 points.
+2025-04-17 09:58:06.916 - Notification - You have earned 0 points.
+2025-04-17 09:58:06.951 - Notification - You have earned 0 points.
+2025-04-17 09:58:06.987 - Notification - You have earned 0 points.
+2025-04-17 09:58:07.026 - Notification - You have earned 0 points.
+2025-04-17 09:58:07.246 - Notification - You have earned 1 points.
+2025-04-17 09:58:07.284 - Notification - You have earned 1 points.
+2025-04-17 09:58:23.348 - Notification - You have earned 2 points.
+2025-04-17 09:58:23.358 - Notification - You have earned 1 points.
+2025-04-17 09:58:23.403 - Notification - You have earned 1 points.
+2025-04-17 09:58:23.438 - Notification - You have earned 1 points.
+2025-04-17 09:58:23.477 - Notification - You have earned 1 points.
+2025-04-17 09:58:23.704 - Notification - You have earned 1 points.
+2025-04-17 09:58:31.533 - Notification - You have earned 1 points.
+2025-04-17 09:58:31.629 - Notification - You have earned 9 points.
+2025-04-17 09:58:31.677 - Notification - You have earned 6 points.
+2025-04-17 09:58:31.725 - Notification - You have earned 1 points.
+2025-04-17 09:58:36.595 - Notification - You have earned 1 points.
+2025-04-17 09:58:36.619 - Notification - You have earned 1 points.
+2025-04-17 09:58:36.961 - Notification - You have earned 1 points.
+2025-04-17 09:58:40.147 - Notification - You have earned 1 points.
+2025-04-17 09:58:40.168 - Notification - You have earned 1 points.
+2025-04-17 09:58:40.533 - Notification - You have earned 1 points.
+2025-04-17 09:58:42.392 - Notification - You have earned 1 points.
+2025-04-17 09:58:42.505 - Notification - You have earned 4 points.
+2025-04-17 09:58:42.548 - Notification - You have earned 3 points.
+2025-04-17 09:58:42.57 - Notification - You have earned 1 points.
+2025-04-17 09:59:01.018 - Notification - You have earned 0 points.
+2025-04-17 09:59:01.027 - Notification - You have earned 0 points.
+2025-04-17 09:59:01.062 - Notification - You have earned 0 points.
+2025-04-17 09:59:01.098 - Notification - You have earned 0 points.
+2025-04-17 09:59:01.113 - Notification - You have earned 0 points.
+2025-04-17 09:59:01.143 - Notification - You have earned 0 points.
+2025-04-17 09:59:01.391 - Notification - You have earned 1 points.
+2025-04-17 09:59:05.724 - Notification - You have earned 0 points.
+2025-04-17 09:59:05.781 - Notification - You have earned 0 points.
+2025-04-17 09:59:05.83 - Notification - You have earned 0 points.
+2025-04-17 09:59:10.934 - Notification - You have earned 0 points.
+2025-04-17 09:59:11.31 - Notification - You have earned 1 points.
+2025-04-17 09:59:13.058 - Notification - You have earned 1 points.
+2025-04-17 09:59:21.423 - Notification - You have earned 0 points.
+2025-04-17 09:59:21.47 - Notification - You have earned 0 points.
+2025-04-17 09:59:21.499 - Notification - You have earned 0 points.
+2025-04-17 09:59:21.52 - Notification - You have earned 1 points.
+2025-04-17 10:00:46.477 - Notification - You have earned 1 points.
+2025-04-17 10:00:46.488 - Notification - You have earned 1 points.
+2025-04-17 10:02:25.745 - Notification - You have earned 1 points.
+2025-04-17 10:02:28.665 - Notification - You have earned 0 points.
+2025-04-17 10:02:29.035 - Notification - You have earned 1 points.
+2025-04-17 10:02:44.894 - Notification - You have earned 0 points.
+2025-04-17 10:02:45.268 - Notification - You have earned 1 points.
+2025-04-17 10:04:57.991 - Notification - You have earned 0 points.
+2025-04-17 10:04:58.396 - Notification - You have earned 1 points.
+2025-04-17 10:05:49.069 - Notification - You have earned 2 points.
+2025-04-17 10:05:52.956 - Notification - You have earned 1 points.
+2025-04-17 10:06:29.604 - Notification - You have earned 1 points.
+2025-04-17 10:06:36.137 - Notification - You have earned 1 points.
+2025-04-17 10:06:38.167 - Notification - You have earned 1 points.
+2025-04-17 10:06:38.354 - Notification - You have earned 9 points.
+2025-04-17 10:06:38.365 - Notification - You have earned 5 points.
+2025-04-17 10:06:38.393 - Notification - You have earned 1 points.
+2025-04-17 10:06:38.426 - Notification - You have earned 1 points.
+2025-04-17 10:06:56.779 - Debug - POST 4 files to https://gamification.thibber.be/api/v1/experimentData :- Coverage.csv (558 bytes)
+- EvaluationLogs.txt (15018 bytes)
+- AchievementsReport.csv (5056 bytes)
+- Actions.csv (12314 bytes)
+

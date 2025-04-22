@@ -1,0 +1,4 @@
+2025-04-17 09:09:09.998 - Notification - You have earned 1 points.
+2025-04-17 09:24:52.815 - Debug - POST 2 files to https://gamification.thibber.be/api/v1/experimentData :- Actions.csv (123 bytes)
+- EvaluationLogs.txt (67 bytes)
+

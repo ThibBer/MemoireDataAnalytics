@@ -1,0 +1,176 @@
+id,user,total_class_count,covered_class_count,total_method_count,covered_method_count,total_line_count,covered_line_count,total_branch_count,covered_branch_count,tested_class,test_name,game_mode,created_at
+1,7b25b9f2-5d8e-401e-aefa-ac31e94575d1,1,1,3,3,4,4,0,0,be.thibber.gamification.Person,PersonTest,0,2025-04-17 07:04:16.113145
+2,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,7,5,12,9,2,1,be.thibber.gamification.building.Building,BuildingTest.testAddressEmpty,1,2025-04-17 07:08:27.548315
+3,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,7,5,12,9,2,1,be.thibber.gamification.building.Building,BuildingTest.testAddress,1,2025-04-17 07:08:46.767522
+4,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,7,6,12,10,2,1,be.thibber.gamification.building.Building,BuildingTest.testGroundSurface,1,2025-04-17 07:09:38.827599
+5,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,7,5,12,9,2,1,be.thibber.gamification.building.Building,BuildingTest.testGroundSurfaceNegatif,1,2025-04-17 07:09:49.959949
+6,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,7,5,12,9,2,1,be.thibber.gamification.building.Building,BuildingTest.testGroundSurfaceNegatif,1,2025-04-17 07:10:13.623260
+7,11b1644a-d11f-45cb-8a40-282a209059c0,1,1,8,8,14,14,0,0,be.thibber.gamification.Coords,CoordsTest,1,2025-04-17 07:11:30.574630
+8,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,7,4,14,10,4,3,be.thibber.gamification.building.Building,BuildingTest.testGroundSurfaceNegatif,1,2025-04-17 07:11:51.572907
+9,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,7,4,14,9,4,2,be.thibber.gamification.building.Building,BuildingTest.testFloorsCountNull,1,2025-04-17 07:13:54.105592
+10,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,7,4,14,10,4,3,be.thibber.gamification.building.Building,BuildingTest.testFloorsCountNull,1,2025-04-17 07:14:27.727624
+11,70c71a91-06a1-4bf4-8e56-f4327b1c8b3f,1,1,8,5,14,7,0,0,be.thibber.gamification.Coords,CoordsTest,1,2025-04-17 07:15:18.244859
+12,7b25b9f2-5d8e-401e-aefa-ac31e94575d1,1,1,8,5,15,10,6,4,be.thibber.gamification.vehicle.Vehicle,VehicleTest,0,2025-04-17 07:16:26.625384
+13,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,7,7,14,14,4,4,be.thibber.gamification.building.Building,BuildingTest,1,2025-04-17 07:16:32.999002
+14,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,4,15,6,6,1,be.thibber.gamification.vehicle.Vehicle,VehicleTest,1,2025-04-17 07:18:58.623023
+15,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,4,15,6,6,1,be.thibber.gamification.vehicle.Vehicle,VehicleTest,1,2025-04-17 07:19:34.349818
+16,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,4,15,7,6,2,be.thibber.gamification.vehicle.Vehicle,VehicleTest.testAccelerate,1,2025-04-17 07:20:08.685235
+17,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,3,15,6,6,2,be.thibber.gamification.vehicle.Vehicle,VehicleTest.testAccelerateNegative,1,2025-04-17 07:20:29.440268
+18,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,3,15,6,6,2,be.thibber.gamification.vehicle.Vehicle,VehicleTest.testAccelerateNegative,1,2025-04-17 07:20:52.172286
+19,b39dc415-9bb6-4d5d-a8f9-30fd61f6a594,1,1,8,5,14,7,0,0,be.thibber.gamification.Coords,CoordsTest.coordTest,1,2025-04-17 07:21:03.938644
+20,7b25b9f2-5d8e-401e-aefa-ac31e94575d1,1,1,8,3,15,5,6,1,be.thibber.gamification.vehicle.Vehicle,VehicleTest.testisNotStopped,0,2025-04-17 07:21:21.464077
+21,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,4,15,7,6,2,be.thibber.gamification.vehicle.Vehicle,VehicleTest.testBrake,1,2025-04-17 07:21:24.505385
+22,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,3,15,6,6,2,be.thibber.gamification.vehicle.Vehicle,VehicleTest.testBrakeNegative,1,2025-04-17 07:21:48.106767
+23,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,3,15,5,6,1,be.thibber.gamification.vehicle.Vehicle,VehicleTest.testIsStopped,1,2025-04-17 07:22:33.336661
+24,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,3,15,5,6,1,be.thibber.gamification.vehicle.Vehicle,VehicleTest.testIsNotStopped,1,2025-04-17 07:22:39.082540
+25,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,4,15,6,6,1,be.thibber.gamification.vehicle.Vehicle,VehicleTest.testReset,1,2025-04-17 07:23:04.870821
+26,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,4,14,6,0,0,be.thibber.gamification.Coords,CoordsTest.testSetX,1,2025-04-17 07:24:02.491768
+27,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,7,7,14,14,4,4,be.thibber.gamification.building.Building,BuildingTest,1,2025-04-17 07:24:54.583342
+28,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,8,15,14,6,5,be.thibber.gamification.vehicle.Vehicle,VehicleTest,1,2025-04-17 07:25:22.104827
+29,0d271530-be17-4538-bf04-dde3c6069b5f,1,1,8,8,15,15,6,6,be.thibber.gamification.vehicle.Vehicle,VehicleTest,1,2025-04-17 07:25:23.767523
+30,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,4,14,6,0,0,be.thibber.gamification.Coords,CoordsTest,1,2025-04-17 07:25:30.355693
+31,0d271530-be17-4538-bf04-dde3c6069b5f,1,1,8,8,15,15,6,6,be.thibber.gamification.vehicle.Vehicle,VehicleTest,1,2025-04-17 07:27:35.957786
+32,0d271530-be17-4538-bf04-dde3c6069b5f,1,1,8,8,14,14,0,0,be.thibber.gamification.Coords,CoordsTest,1,2025-04-17 07:28:01.424811
+33,674eeeb6-2534-419d-8965-63e4400f60c4,1,1,8,7,14,13,0,0,be.thibber.gamification.Coords,CoordsTest,0,2025-04-17 07:28:46.392401
+34,1f06f352-91b6-4373-87ed-5a5070723efb,1,1,8,8,14,14,0,0,be.thibber.gamification.Coords,CoordsTest,1,2025-04-17 07:29:50.638583
+35,1f06f352-91b6-4373-87ed-5a5070723efb,1,1,8,8,14,14,0,0,be.thibber.gamification.Coords,CoordsTest,1,2025-04-17 07:29:51.855832
+36,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,7,7,14,14,4,4,be.thibber.gamification.building.Building,BuildingTest,1,2025-04-17 07:30:12.214219
+37,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,2,2,2,2,0,0,be.thibber.gamification.building.House,HouseTest,1,2025-04-17 07:31:15.831935
+38,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,7,7,14,14,4,4,be.thibber.gamification.building.Building,BuildingTest,1,2025-04-17 07:33:58.473872
+39,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,4,14,6,0,0,be.thibber.gamification.Coords,be.thibber.gamification in gamified-testing,1,2025-04-17 07:34:37.313263
+40,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,7,0,21,0,14,0,be.thibber.gamification.PolyLine,be.thibber.gamification in gamified-testing,1,2025-04-17 07:37:39.597744
+41,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,10,0,32,0,16,0,be.thibber.gamification.City,be.thibber.gamification in gamified-testing,1,2025-04-17 07:37:44.129813
+42,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,11,0,22,0,8,0,be.thibber.gamification.vehicle.Car,be.thibber.gamification in gamified-testing,1,2025-04-17 07:38:01.430145
+43,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,6,0,8,0,0,0,be.thibber.gamification.Road,be.thibber.gamification in gamified-testing,1,2025-04-17 07:38:10.173306
+44,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,8,15,15,6,6,be.thibber.gamification.vehicle.Vehicle,be.thibber.gamification in gamified-testing,1,2025-04-17 07:38:10.228079
+45,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,9,0,15,0,6,0,be.thibber.gamification.building.Parking,be.thibber.gamification in gamified-testing,1,2025-04-17 07:38:10.236992
+46,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,2,2,2,2,0,0,be.thibber.gamification.building.House,be.thibber.gamification in gamified-testing,1,2025-04-17 07:38:10.297547
+47,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,4,14,6,0,0,be.thibber.gamification.Coords,be.thibber.gamification in gamified-testing,1,2025-04-17 07:38:10.297840
+48,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,1,0,1,0,0,0,be.thibber.gamification.exceptions.FullParkingException,be.thibber.gamification in gamified-testing,1,2025-04-17 07:38:11.152530
+49,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,7,7,14,14,4,4,be.thibber.gamification.building.Building,be.thibber.gamification in gamified-testing,1,2025-04-17 07:38:12.088085
+50,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,3,0,4,0,0,0,be.thibber.gamification.Person,be.thibber.gamification in gamified-testing,1,2025-04-17 07:38:12.088300
+51,eed81e54-2343-44af-ab2f-cd062db7e11a,1,1,8,4,15,7,6,2,be.thibber.gamification.vehicle.Vehicle,VehicleTest,1,2025-04-17 07:44:50.222600
+52,465777bf-b8f8-4dbe-b99e-7e1c208be8dc,1,1,8,7,14,12,0,0,be.thibber.gamification.Coords,CoordsTest,1,2025-04-17 07:44:55.783239
+53,7b25b9f2-5d8e-401e-aefa-ac31e94575d1,1,1,8,8,15,15,6,6,be.thibber.gamification.vehicle.Vehicle,VehicleTest,1,2025-04-17 07:45:02.215990
+54,465777bf-b8f8-4dbe-b99e-7e1c208be8dc,1,1,8,4,14,6,0,0,be.thibber.gamification.Coords,CoordsTest.returnValueTest,1,2025-04-17 07:46:32.873860
+55,1f06f352-91b6-4373-87ed-5a5070723efb,1,1,8,8,14,14,0,0,be.thibber.gamification.Coords,CoordsTest,0,2025-04-17 07:46:39.673462
+56,60716858-6fcb-4953-88e3-12a51b3c7c47,1,1,8,4,14,6,0,0,be.thibber.gamification.Coords,CoordsTest.setYTest,1,2025-04-17 07:47:07.394842
+57,eed81e54-2343-44af-ab2f-cd062db7e11a,1,1,8,4,15,7,6,2,be.thibber.gamification.vehicle.Vehicle,VehicleTest.accelerate,1,2025-04-17 07:47:14.423402
+58,f9ec833e-db4f-49b9-9b14-08298cbb4425,1,1,3,3,4,4,0,0,be.thibber.gamification.Person,PersonTest,1,2025-04-17 07:47:35.823280
+59,f9ec833e-db4f-49b9-9b14-08298cbb4425,1,1,8,4,14,6,0,0,be.thibber.gamification.Coords,CoordsTest,1,2025-04-17 07:47:55.984205
+60,f9ec833e-db4f-49b9-9b14-08298cbb4425,1,1,6,1,8,1,0,0,be.thibber.gamification.Road,RoadTest,1,2025-04-17 07:48:28.629902
+61,eed81e54-2343-44af-ab2f-cd062db7e11a,1,1,8,3,15,6,6,2,be.thibber.gamification.vehicle.Vehicle,VehicleTest.accelerateError,1,2025-04-17 07:48:28.692447
+62,eed81e54-2343-44af-ab2f-cd062db7e11a,1,1,8,4,15,7,6,2,be.thibber.gamification.vehicle.Vehicle,VehicleTest.brake,1,2025-04-17 07:49:01.103262
+63,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,7,0,21,0,14,0,be.thibber.gamification.PolyLine,be.thibber.gamification in gamified-testing,0,2025-04-17 07:49:03.130585
+64,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,10,0,32,0,16,0,be.thibber.gamification.City,be.thibber.gamification in gamified-testing,0,2025-04-17 07:49:03.185792
+65,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,be.thibber.gamification in gamified-testing,0,2025-04-17 07:49:03.214592
+66,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,6,0,8,0,0,0,be.thibber.gamification.Road,be.thibber.gamification in gamified-testing,0,2025-04-17 07:49:03.228122
+67,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,8,15,15,6,6,be.thibber.gamification.vehicle.Vehicle,be.thibber.gamification in gamified-testing,0,2025-04-17 07:49:03.259358
+68,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,9,0,15,0,6,0,be.thibber.gamification.building.Parking,be.thibber.gamification in gamified-testing,0,2025-04-17 07:49:03.262552
+69,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,4,14,6,0,0,be.thibber.gamification.Coords,be.thibber.gamification in gamified-testing,0,2025-04-17 07:49:03.278460
+70,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,2,2,2,2,0,0,be.thibber.gamification.building.House,be.thibber.gamification in gamified-testing,0,2025-04-17 07:49:03.300379
+71,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,1,0,1,0,0,0,be.thibber.gamification.exceptions.FullParkingException,be.thibber.gamification in gamified-testing,0,2025-04-17 07:49:03.304545
+72,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,7,7,14,14,4,4,be.thibber.gamification.building.Building,be.thibber.gamification in gamified-testing,0,2025-04-17 07:49:03.315191
+73,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,3,0,4,0,0,0,be.thibber.gamification.Person,be.thibber.gamification in gamified-testing,0,2025-04-17 07:49:03.342581
+74,eed81e54-2343-44af-ab2f-cd062db7e11a,1,1,8,3,15,6,6,2,be.thibber.gamification.vehicle.Vehicle,VehicleTest.brakeError,1,2025-04-17 07:49:41.019063
+75,465777bf-b8f8-4dbe-b99e-7e1c208be8dc,1,1,8,7,14,12,0,0,be.thibber.gamification.Coords,CoordsTest,1,2025-04-17 07:49:44.255174
+76,70c71a91-06a1-4bf4-8e56-f4327b1c8b3f,1,1,8,7,14,12,0,0,be.thibber.gamification.Coords,CoordsTest,0,2025-04-17 07:50:44.001540
+77,eed81e54-2343-44af-ab2f-cd062db7e11a,1,1,8,3,15,5,6,1,be.thibber.gamification.vehicle.Vehicle,VehicleTest.isStopped,1,2025-04-17 07:50:52.835057
+78,f9ec833e-db4f-49b9-9b14-08298cbb4425,1,1,8,6,14,8,0,0,be.thibber.gamification.Coords,CoordsTest.test2,1,2025-04-17 07:51:10.705044
+79,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,7,0,21,0,14,0,be.thibber.gamification.PolyLine,be.thibber.gamification in gamified-testing,0,2025-04-17 07:51:14.172151
+80,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,10,0,32,0,16,0,be.thibber.gamification.City,be.thibber.gamification in gamified-testing,0,2025-04-17 07:51:14.204377
+81,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,11,4,22,4,10,0,be.thibber.gamification.vehicle.Car,be.thibber.gamification in gamified-testing,0,2025-04-17 07:51:14.206548
+82,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,6,0,8,0,0,0,be.thibber.gamification.Road,be.thibber.gamification in gamified-testing,0,2025-04-17 07:51:14.226691
+83,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,8,15,15,6,6,be.thibber.gamification.vehicle.Vehicle,be.thibber.gamification in gamified-testing,0,2025-04-17 07:51:14.236939
+84,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,9,0,15,0,6,0,be.thibber.gamification.building.Parking,be.thibber.gamification in gamified-testing,0,2025-04-17 07:51:14.253476
+85,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,4,14,6,0,0,be.thibber.gamification.Coords,be.thibber.gamification in gamified-testing,0,2025-04-17 07:51:14.264616
+86,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,2,2,2,2,0,0,be.thibber.gamification.building.House,be.thibber.gamification in gamified-testing,0,2025-04-17 07:51:14.265629
+87,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,1,0,1,0,0,0,be.thibber.gamification.exceptions.FullParkingException,be.thibber.gamification in gamified-testing,0,2025-04-17 07:51:14.288423
+88,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,7,7,14,14,4,4,be.thibber.gamification.building.Building,be.thibber.gamification in gamified-testing,0,2025-04-17 07:51:14.292481
+89,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,3,0,4,0,0,0,be.thibber.gamification.Person,be.thibber.gamification in gamified-testing,0,2025-04-17 07:51:14.296489
+90,1f06f352-91b6-4373-87ed-5a5070723efb,1,1,3,3,4,4,0,0,be.thibber.gamification.Person,PersonTest.test_GetNamePerson,0,2025-04-17 07:51:50.321227
+91,eed81e54-2343-44af-ab2f-cd062db7e11a,1,1,8,4,15,6,6,1,be.thibber.gamification.vehicle.Vehicle,VehicleTest.reset,1,2025-04-17 07:51:58.914376
+92,11b1644a-d11f-45cb-8a40-282a209059c0,1,1,6,6,8,8,0,0,be.thibber.gamification.Road,RoadTest,0,2025-04-17 07:52:32.700624
+93,465777bf-b8f8-4dbe-b99e-7e1c208be8dc,1,1,8,6,14,9,0,0,be.thibber.gamification.Coords,CoordsTest.moveValueTest,1,2025-04-17 07:52:34.701487
+94,eed81e54-2343-44af-ab2f-cd062db7e11a,1,1,8,8,14,14,0,0,be.thibber.gamification.Coords,CoordsTest,1,2025-04-17 07:52:51.525648
+95,70c71a91-06a1-4bf4-8e56-f4327b1c8b3f,1,1,8,8,14,14,0,0,be.thibber.gamification.Coords,CoordsTest,0,2025-04-17 07:53:14.881504
+96,eed81e54-2343-44af-ab2f-cd062db7e11a,1,1,3,3,4,4,0,0,be.thibber.gamification.Person,PersonTest,1,2025-04-17 07:53:23.495900
+97,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest.testCarCreationOneParam,0,2025-04-17 07:53:27.544740
+98,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,0,11,0,22,0,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 07:54:28.691622
+99,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,11,6,22,9,10,1,be.thibber.gamification.vehicle.Car,CarTest.testCarCreationOneParam,0,2025-04-17 07:55:07.960623
+100,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,11,7,22,10,10,1,be.thibber.gamification.vehicle.Car,CarTest.testCarCreationOneParam,0,2025-04-17 07:55:28.596863
+101,465777bf-b8f8-4dbe-b99e-7e1c208be8dc,1,1,8,7,14,10,0,0,be.thibber.gamification.Coords,CoordsTest,1,2025-04-17 07:55:33.008488
+102,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,11,8,22,11,10,1,be.thibber.gamification.vehicle.Car,CarTest.testCarCreationOneParam,0,2025-04-17 07:55:37.951900
+103,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 07:56:29.548544
+104,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,11,7,22,10,10,1,be.thibber.gamification.vehicle.Car,CarTest.testCarSetSeatsCount,0,2025-04-17 07:56:39.876282
+105,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 07:57:01.798231
+106,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 07:57:14.333903
+107,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,11,6,22,9,10,1,be.thibber.gamification.vehicle.Car,CarTest.testCarSetSeatNegative,0,2025-04-17 07:57:18.408926
+108,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 07:57:22.552163
+109,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 07:57:28.468448
+110,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 07:57:35.723784
+111,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 07:57:47.394502
+112,70c71a91-06a1-4bf4-8e56-f4327b1c8b3f,1,1,3,3,4,4,0,0,be.thibber.gamification.Person,PersonTest,0,2025-04-17 07:57:48.115258
+113,70e85b5e-92d4-498a-9079-ba881f5b3b82,1,1,8,8,15,15,6,6,be.thibber.gamification.vehicle.Vehicle,VehicleTest,1,2025-04-17 07:57:52.339408
+114,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 07:57:54.405854
+115,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 07:58:02.894227
+116,223bf16c-aaad-404f-8a47-61f3ced741e4,1,0,7,0,21,0,14,0,be.thibber.gamification.PolyLine,PolyLineTest,0,2025-04-17 07:58:07.233016
+117,223bf16c-aaad-404f-8a47-61f3ced741e4,1,1,8,6,14,9,0,0,be.thibber.gamification.Coords,CoordsTest,0,2025-04-17 07:58:31.566819
+118,223bf16c-aaad-404f-8a47-61f3ced741e4,1,1,3,3,4,4,0,0,be.thibber.gamification.Person,PersonTest,0,2025-04-17 07:58:42.423238
+119,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,11,6,24,11,12,3,be.thibber.gamification.vehicle.Car,CarTest.testCarSetSeatNegative,0,2025-04-17 07:58:49.945033
+120,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 07:58:52.218500
+121,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,11,7,24,13,12,4,be.thibber.gamification.vehicle.Car,CarTest.addPassenger,0,2025-04-17 07:58:55.265104
+122,223bf16c-aaad-404f-8a47-61f3ced741e4,1,0,7,0,21,0,14,0,be.thibber.gamification.PolyLine,PolyLineTest.getPointsTest,0,2025-04-17 07:59:13.091649
+123,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 07:59:27.499434
+124,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 07:59:36.262336
+125,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 07:59:44.864149
+126,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,11,7,24,13,12,4,be.thibber.gamification.vehicle.Car,CarTest.addPassenger,0,2025-04-17 07:59:54.742250
+127,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 07:59:54.760589
+128,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 08:00:03.941445
+129,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 08:00:20.523820
+130,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 08:00:28.422313
+131,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 08:00:34.569004
+132,88a83dd8-0ea0-41ad-93ca-d397d796fb37,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 08:00:40.781017
+133,11b1644a-d11f-45cb-8a40-282a209059c0,1,1,11,9,21,16,6,4,be.thibber.gamification.vehicle.Car,CarTest,0,2025-04-17 08:00:47.736261
+134,eed81e54-2343-44af-ab2f-cd062db7e11a,1,1,6,2,8,4,0,0,be.thibber.gamification.Road,RoadTest.constructor,1,2025-04-17 08:00:52.730888
+135,d65a1736-2d35-44e8-bf24-d1fd976c741f,1,1,10,3,32,11,16,3,be.thibber.gamification.City,CityTest.testParkingUsagePercentage,0,2025-04-17 08:01:42.335159
+138,eed81e54-2343-44af-ab2f-cd062db7e11a,1,1,6,4,8,6,0,0,be.thibber.gamification.Road,RoadTest,1,2025-04-17 08:02:28.672861
+136,f9ec833e-db4f-49b9-9b14-08298cbb4425,1,1,8,3,15,5,6,1,be.thibber.gamification.vehicle.Vehicle,VehicleTest.test2,1,2025-04-17 08:02:02.329680
+137,f9ec833e-db4f-49b9-9b14-08298cbb4425,1,1,8,3,15,5,6,1,be.thibber.gamification.vehicle.Vehicle,VehicleTest,1,2025-04-17 08:02:15.472255
+139,fb270a09-6a45-4eae-8f9a-3c808faec3ee,1,1,7,7,12,11,2,1,be.thibber.gamification.building.Building,BuildingTest,1,2025-04-17 08:03:53.733175
+140,eed81e54-2343-44af-ab2f-cd062db7e11a,1,1,6,4,8,6,0,0,be.thibber.gamification.Road,RoadTest.addVehicles,1,2025-04-17 08:03:58.783490
+141,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,11,8,24,14,12,4,be.thibber.gamification.vehicle.Car,CarTest.addPassenger,0,2025-04-17 08:04:08.211643
+142,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,11,7,24,12,12,3,be.thibber.gamification.vehicle.Car,CarTest.addPassengerNull,0,2025-04-17 08:04:17.386384
+143,f9ec833e-db4f-49b9-9b14-08298cbb4425,1,1,11,4,22,4,8,0,be.thibber.gamification.vehicle.Car,CarTest,1,2025-04-17 08:04:25.958666
+144,0d271530-be17-4538-bf04-dde3c6069b5f,1,1,11,11,22,21,10,9,be.thibber.gamification.vehicle.Car,CarTest,0,2025-04-17 08:04:40.849025
+145,eed81e54-2343-44af-ab2f-cd062db7e11a,1,1,6,4,8,6,0,0,be.thibber.gamification.Road,RoadTest.removeVehicles,1,2025-04-17 08:04:45.501029
+146,b39dc415-9bb6-4d5d-a8f9-30fd61f6a594,1,0,6,0,8,0,0,0,be.thibber.gamification.Road,RoadTest.roadTest,0,2025-04-17 08:04:58.157820
+147,eed81e54-2343-44af-ab2f-cd062db7e11a,1,1,6,3,8,5,0,0,be.thibber.gamification.Road,RoadTest.setName,1,2025-04-17 08:05:12.393227
+148,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,11,9,24,16,12,5,be.thibber.gamification.vehicle.Car,CarTest.testRemovePassenger,0,2025-04-17 08:05:29.444254
+149,0d271530-be17-4538-bf04-dde3c6069b5f,1,1,11,11,22,22,10,10,be.thibber.gamification.vehicle.Car,CarTest,0,2025-04-17 08:05:50.496487
+150,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,11,9,24,16,12,5,be.thibber.gamification.vehicle.Car,CarTest.testRemovePassenger,0,2025-04-17 08:06:14.270983
+151,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,11,7,24,12,12,3,be.thibber.gamification.vehicle.Car,CarTest.testRemovePassengerNull,0,2025-04-17 08:06:23.048013
+152,223bf16c-aaad-404f-8a47-61f3ced741e4,1,1,7,5,12,9,2,1,be.thibber.gamification.building.Building,BuildingTest,0,2025-04-17 08:06:38.208110
+153,b39dc415-9bb6-4d5d-a8f9-30fd61f6a594,1,0,6,0,8,0,0,0,be.thibber.gamification.Road,RoadTest.roadTest,0,2025-04-17 08:06:41.807918
+154,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,7,0,21,0,14,0,be.thibber.gamification.PolyLine,be.thibber.gamification in gamified-testing,0,2025-04-17 08:06:53.572809
+155,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,10,0,32,0,16,0,be.thibber.gamification.City,be.thibber.gamification in gamified-testing,0,2025-04-17 08:06:53.619903
+156,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,11,10,24,20,12,8,be.thibber.gamification.vehicle.Car,be.thibber.gamification in gamified-testing,0,2025-04-17 08:06:53.622955
+157,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,6,0,8,0,0,0,be.thibber.gamification.Road,be.thibber.gamification in gamified-testing,0,2025-04-17 08:06:53.649617
+158,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,9,0,15,0,6,0,be.thibber.gamification.building.Parking,be.thibber.gamification in gamified-testing,0,2025-04-17 08:06:53.652079
+159,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,8,15,15,6,6,be.thibber.gamification.vehicle.Vehicle,be.thibber.gamification in gamified-testing,0,2025-04-17 08:06:53.652360
+160,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,4,14,6,0,0,be.thibber.gamification.Coords,be.thibber.gamification in gamified-testing,0,2025-04-17 08:06:53.670177
+161,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,2,2,2,2,0,0,be.thibber.gamification.building.House,be.thibber.gamification in gamified-testing,0,2025-04-17 08:06:53.679685
+162,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,1,0,1,0,0,0,be.thibber.gamification.exceptions.FullParkingException,be.thibber.gamification in gamified-testing,0,2025-04-17 08:06:53.702457
+163,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,7,7,14,14,4,4,be.thibber.gamification.building.Building,be.thibber.gamification in gamified-testing,0,2025-04-17 08:06:53.705825
+164,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,3,2,4,3,0,0,be.thibber.gamification.Person,be.thibber.gamification in gamified-testing,0,2025-04-17 08:06:53.729607
+165,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,7,0,21,0,14,0,be.thibber.gamification.PolyLine,be.thibber.gamification in gamified-testing,0,2025-04-17 08:08:27.759553
+166,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,10,0,32,0,16,0,be.thibber.gamification.City,be.thibber.gamification in gamified-testing,0,2025-04-17 08:08:27.791260
+167,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,11,11,24,22,12,8,be.thibber.gamification.vehicle.Car,be.thibber.gamification in gamified-testing,0,2025-04-17 08:08:27.802109
+168,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,6,0,8,0,0,0,be.thibber.gamification.Road,be.thibber.gamification in gamified-testing,0,2025-04-17 08:08:27.813587
+169,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,8,15,15,6,6,be.thibber.gamification.vehicle.Vehicle,be.thibber.gamification in gamified-testing,0,2025-04-17 08:08:27.832558
+170,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,8,4,14,6,0,0,be.thibber.gamification.Coords,be.thibber.gamification in gamified-testing,0,2025-04-17 08:08:27.836620
+171,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,2,2,2,2,0,0,be.thibber.gamification.building.House,be.thibber.gamification in gamified-testing,0,2025-04-17 08:08:27.867959
+172,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,0,1,0,1,0,0,0,be.thibber.gamification.exceptions.FullParkingException,be.thibber.gamification in gamified-testing,0,2025-04-17 08:08:27.878234
+173,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,7,7,14,14,4,4,be.thibber.gamification.building.Building,be.thibber.gamification in gamified-testing,0,2025-04-17 08:08:27.889325
+174,caadbaac-e919-4b9b-b3a5-9d074d40493c,1,1,3,2,4,3,0,0,be.thibber.gamification.Person,be.thibber.gamification in gamified-testing,0,2025-04-17 08:08:27.897239
+175,223bf16c-aaad-404f-8a47-61f3ced741e4,1,0,10,0,32,0,16,0,be.thibber.gamification.City,CityTest,0,2025-04-17 08:10:25.202402

@@ -1,0 +1,4 @@
+totalClassCount,coveredClassCount,totalMethodCount,coveredMethodCount,totalLineCount,coveredLineCount,totalBranchCount,coveredBranchCount,testedClass,testName
+1,1,8,8,14,14,0,0,be.thibber.gamification.Coords,CoordsTest
+1,1,6,6,8,8,0,0,be.thibber.gamification.Road,RoadTest
+1,1,11,9,21,16,6,4,be.thibber.gamification.vehicle.Car,CarTest

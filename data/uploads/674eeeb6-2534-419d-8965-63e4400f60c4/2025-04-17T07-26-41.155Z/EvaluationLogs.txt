@@ -1,0 +1,36 @@
+2025-04-17 09:14:49.897 - Error - Websocket failure : null
+2025-04-17 09:14:49.897 - Debug - Web socket state : Error
+2025-04-17 09:14:51.171 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Double check' achievement!
+2025-04-17 09:16:03.86 - Notification - Congratulations! You unlocked level 1 of the 'Double check' achievement!
+2025-04-17 09:16:58.54 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:16:58.541 - Debug - Web socket state : Connecting
+2025-04-17 09:16:58.84 - Debug - Web socket state : Connected
+2025-04-17 09:16:58.842 - Notification - Connected to gamification server
+2025-04-17 09:16:58.843 - Debug - Websocket connection opened
+2025-04-17 09:17:26.974 - Error - Websocket failure : null
+2025-04-17 09:17:26.974 - Debug - Web socket state : Error
+2025-04-17 09:17:37.294 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:17:37.295 - Debug - Web socket state : Connecting
+2025-04-17 09:17:37.421 - Debug - Web socket state : Connected
+2025-04-17 09:17:37.421 - Notification - Connected to gamification server
+2025-04-17 09:17:37.421 - Debug - Websocket connection opened
+2025-04-17 09:18:17.273 - Notification - You are making progress on an achievement! You have already reached 40,00% of the next level of the 'Shine in new splendour' achievement!
+2025-04-17 09:18:17.283 - Notification - You are making progress on an achievement! You have already reached 60,00% of the next level of the 'Shine in new splendour' achievement!
+2025-04-17 09:18:54.156 - Notification - Congratulations! You unlocked level 1 of the 'Assert and Tested' achievement!
+2025-04-17 09:19:51.373 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Double check' achievement!
+2025-04-17 09:19:54.347 - Notification - You are making progress on an achievement! You have already reached 60,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:21:37.589 - Notification - Congratulations! You unlocked level 2 of the 'Double check' achievement!
+2025-04-17 09:21:37.593 - Notification - You are making progress on an achievement! You have already reached 40,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:21:41.862 - Notification - You are making progress on an achievement! You have already reached 90,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:22:59.398 - Notification - Congratulations! You unlocked level 2 of the 'Assert and Tested' achievement!
+2025-04-17 09:24:06.538 - Notification - You are making progress on an achievement! You have already reached 60,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:24:56.375 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:26:37.124 - Debug - POST 3 files to https://gamification.thibber.be/api/v1/experimentData :- EvaluationLogs.txt (2932 bytes)
+- AchievementsReport.csv (3154 bytes)
+- Actions.csv (1898 bytes)
+
+2025-04-17 09:26:37.282 - Notification - File successfully sent, thanks for your help ! 😉
+2025-04-17 09:26:41.068 - Debug - POST 3 files to https://gamification.thibber.be/api/v1/experimentData :- EvaluationLogs.txt (3230 bytes)
+- AchievementsReport.csv (3154 bytes)
+- Actions.csv (1898 bytes)
+

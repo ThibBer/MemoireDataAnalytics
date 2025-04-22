@@ -1,0 +1,16 @@
+2025-04-17 09:13:18.741 - Notification - You have earned 1 points.
+2025-04-17 09:21:47.897 - Notification - You have earned 4 points.
+2025-04-17 09:21:47.925 - Notification - You have earned 2 points.
+2025-04-17 09:23:23.594 - Notification - You have earned 1 points.
+2025-04-17 09:23:42.667 - Notification - You have earned 1 points.
+2025-04-17 09:26:11.027 - Notification - Game mode selected : achievements
+2025-04-17 09:30:23.124 - Debug - POST 3 files to https://gamification.thibber.be/api/v1/experimentData :- AchievementsReport.csv (1037 bytes)
+- Actions.csv (535 bytes)
+- EvaluationLogs.txt (410 bytes)
+
+2025-04-17 09:30:23.468 - Notification - File successfully sent, thanks for your help ! 😉
+2025-04-17 09:35:22.722 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Double check' achievement!
+2025-04-17 09:42:19.393 - Debug - POST 3 files to https://gamification.thibber.be/api/v1/experimentData :- AchievementsReport.csv (1137 bytes)
+- Actions.csv (621 bytes)
+- EvaluationLogs.txt (875 bytes)
+
