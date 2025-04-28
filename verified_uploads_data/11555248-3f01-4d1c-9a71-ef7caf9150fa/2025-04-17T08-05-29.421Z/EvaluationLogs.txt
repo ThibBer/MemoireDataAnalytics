@@ -1,0 +1,47 @@
+2025-04-17 09:20:03.862 - Notification - You have earned 1 points.
+2025-04-17 09:22:40.249 - Notification - You have earned 1 points.
+2025-04-17 09:27:16.169 - Error - Websocket failure : null
+2025-04-17 09:27:16.173 - Debug - Web socket state : Error
+2025-04-17 09:27:44.586 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:27:44.586 - Debug - Web socket state : Connecting
+2025-04-17 09:27:44.777 - Debug - Web socket state : Connected
+2025-04-17 09:27:44.781 - Notification - Connected to gamification server
+2025-04-17 09:27:44.783 - Debug - Websocket connection opened
+2025-04-17 09:29:57.533 - Error - Websocket failure : null
+2025-04-17 09:29:57.535 - Debug - Web socket state : Error
+2025-04-17 09:31:49.0 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:31:49.0 - Debug - Web socket state : Connecting
+2025-04-17 09:31:49.144 - Debug - Web socket state : Connected
+2025-04-17 09:31:49.144 - Notification - Connected to gamification server
+2025-04-17 09:31:49.151 - Debug - Websocket connection opened
+2025-04-17 09:35:10.803 - Error - Websocket failure : Connection reset
+2025-04-17 09:35:10.809 - Debug - Web socket state : Error
+2025-04-17 09:44:12.345 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:44:12.345 - Debug - Web socket state : Connecting
+2025-04-17 09:44:12.498 - Debug - Web socket state : Connected
+2025-04-17 09:44:12.505 - Notification - Connected to gamification server
+2025-04-17 09:44:12.511 - Debug - Websocket connection opened
+2025-04-17 09:44:28.474 - Notification - Game mode selected : achievements
+2025-04-17 09:46:09.791 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Double check' achievement!
+2025-04-17 09:48:38.665 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:48:38.666 - Debug - Web socket state : Connecting
+2025-04-17 09:48:39.295 - Debug - Web socket state : Connected
+2025-04-17 09:48:39.356 - Notification - Connected to gamification server
+2025-04-17 09:48:39.356 - Debug - Websocket connection opened
+2025-04-17 09:50:40.937 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:50:40.947 - Debug - Web socket state : Connecting
+2025-04-17 09:50:41.223 - Debug - Web socket state : Connected
+2025-04-17 09:50:41.236 - Notification - Connected to gamification server
+2025-04-17 09:50:41.24 - Debug - Websocket connection opened
+2025-04-17 09:51:18.497 - Error - Websocket failure : null
+2025-04-17 09:51:18.499 - Debug - Web socket state : Error
+2025-04-17 09:54:36.042 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:54:36.043 - Debug - Web socket state : Connecting
+2025-04-17 09:54:36.189 - Debug - Web socket state : Connected
+2025-04-17 09:54:36.195 - Notification - Connected to gamification server
+2025-04-17 09:54:36.199 - Debug - Websocket connection opened
+2025-04-17 09:55:37.518 - Notification - Congratulations! You unlocked level 1 of the 'Double check' achievement!
+2025-04-17 10:05:30.137 - Debug - POST 3 files to https://gamification.thibber.be/api/v1/experimentData :- AchievementsReport.csv (1237 bytes)
+- Actions.csv (446 bytes)
+- EvaluationLogs.txt (3017 bytes)
+

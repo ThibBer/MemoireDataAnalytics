@@ -1,0 +1,34 @@
+Action,Name,Points,GameMode,Timestamp
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:05:20.133
+RefactorCodeAchievement,Shine in new splendour,1,ACHIEVEMENTS,2025-04-17 09:07:01.914
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:07:37.858
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:08:03.873
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:08:16.641
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:08:57.27
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:09:32.612
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:13:26.759
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:13:26.9
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:14:18.236
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:14:25.605
+RefactorCodeAchievement,Shine in new splendour,1,ACHIEVEMENTS,2025-04-17 09:14:25.658
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:14:40.824
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:14:41.399
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:15:01.086
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:16:02.052
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:16:30.974
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:16:30.974
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:16:38.074
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:16:38.619
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:16:45.53
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:16:46.068
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:17:06.377
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:19:56.941
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:20:14.323
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:20:14.863
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:21:06.15
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:22:58.058
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:23:06.178
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:23:06.703
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:24:07.902
+RefactorCodeAchievement,Shine in new splendour,1,ACHIEVEMENTS,2025-04-17 09:24:35.135
+RefactorAddXAssertionsAchievement,Double check,2,ACHIEVEMENTS,2025-04-17 09:25:03.944

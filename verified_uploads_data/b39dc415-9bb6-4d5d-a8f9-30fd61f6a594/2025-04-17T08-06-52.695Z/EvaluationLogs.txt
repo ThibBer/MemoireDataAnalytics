@@ -1,0 +1,53 @@
+2025-04-17 09:10:29.152 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Double check' achievement!
+2025-04-17 09:16:55.797 - Notification - You are making progress on an achievement! You have already reached 30,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:19:14.4 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Double check' achievement!
+2025-04-17 09:19:52.324 - Notification - Congratulations! You unlocked level 1 of the 'Double check' achievement!
+2025-04-17 09:20:47.483 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'The Tester' achievement!
+2025-04-17 09:20:47.501 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:21:04.206 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:21:04.22 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:21:04.226 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:21:04.494 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Check your methods' achievement!
+2025-04-17 09:21:04.558 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Check your classes' achievement!
+2025-04-17 09:25:55.506 - Debug - POST 4 files to https://gamification.thibber.be/api/v1/experimentData :- AchievementsReport.csv (2137 bytes)
+- Actions.csv (993 bytes)
+- Coverage.csv (228 bytes)
+- EvaluationLogs.txt (1718 bytes)
+
+2025-04-17 09:25:55.708 - Notification - File successfully sent, thanks for your help ! 😉
+2025-04-17 09:42:57.354 - Error - Websocket failure : Connection reset
+2025-04-17 09:42:57.355 - Debug - Web socket state : Error
+2025-04-17 09:44:30.597 - Notification - Game mode selected : leaderboard
+2025-04-17 09:45:10.94 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:45:10.941 - Debug - Web socket state : Connecting
+2025-04-17 09:45:11.143 - Debug - Web socket state : Connected
+2025-04-17 09:45:11.145 - Notification - Connected to gamification server
+2025-04-17 09:45:11.146 - Debug - Websocket connection opened
+2025-04-17 09:46:43.966 - Notification - You have earned 1 points.
+2025-04-17 09:47:51.444 - Notification - You have earned 8 points.
+2025-04-17 09:47:51.49 - Notification - You have earned 1 points.
+2025-04-17 09:49:13.79 - Notification - You have earned 1 points.
+2025-04-17 09:49:13.821 - Notification - You have earned 1 points.
+2025-04-17 09:49:13.889 - Notification - You have earned 1 points.
+2025-04-17 09:51:11.813 - Notification - You have earned 2 points.
+2025-04-17 09:55:25.497 - Notification - You have earned 2 points.
+2025-04-17 09:55:25.52 - Notification - You have earned 1 points.
+2025-04-17 09:57:48.218 - Notification - You have earned 1 points.
+2025-04-17 09:58:47.4 - Notification - You have earned 1 points.
+2025-04-17 09:58:52.37 - Notification - You have earned 1 points.
+2025-04-17 09:59:00.566 - Notification - You have earned 1 points.
+2025-04-17 09:59:04.141 - Notification - You have earned 1 points.
+2025-04-17 09:59:36.524 - Notification - You have earned 2 points.
+2025-04-17 10:00:09.942 - Notification - You have earned 1 points.
+2025-04-17 10:04:44.854 - Notification - You have earned 1 points.
+2025-04-17 10:04:47.431 - Notification - You have earned 1 points.
+2025-04-17 10:04:50.991 - Notification - You have earned 1 points.
+2025-04-17 10:04:58.721 - Notification - You have earned 1 points.
+2025-04-17 10:06:38.695 - Notification - You have earned 1 points.
+2025-04-17 10:06:40.858 - Notification - You have earned 1 points.
+2025-04-17 10:06:42.309 - Notification - You have earned 1 points.
+2025-04-17 10:06:53.244 - Debug - POST 4 files to https://gamification.thibber.be/api/v1/experimentData :- AchievementsReport.csv (2137 bytes)
+- Actions.csv (2817 bytes)
+- Coverage.csv (354 bytes)
+- EvaluationLogs.txt (4121 bytes)
+

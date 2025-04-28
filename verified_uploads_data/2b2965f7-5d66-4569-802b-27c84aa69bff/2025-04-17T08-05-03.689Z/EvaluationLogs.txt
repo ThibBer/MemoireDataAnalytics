@@ -1,0 +1,67 @@
+2025-04-17 09:14:16.17 - Notification - You have earned 2 points.
+2025-04-17 09:14:16.235 - Notification - You have earned 1 points.
+2025-04-17 09:14:16.359 - Notification - You have earned 1 points.
+2025-04-17 09:14:16.419 - Notification - You have earned 1 points.
+2025-04-17 09:14:21.506 - Notification - You have earned 1 points.
+2025-04-17 09:16:32.068 - Notification - You have earned 1 points.
+2025-04-17 09:16:34.833 - Notification - You have earned 1 points.
+2025-04-17 09:18:14.996 - Notification - You have earned 1 points.
+2025-04-17 09:20:47.807 - Error - Websocket failure : null
+2025-04-17 09:20:47.824 - Debug - Web socket state : Error
+2025-04-17 09:21:06.344 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:21:06.344 - Debug - Web socket state : Connecting
+2025-04-17 09:21:06.492 - Debug - Web socket state : Connected
+2025-04-17 09:21:06.492 - Notification - Connected to gamification server
+2025-04-17 09:21:06.495 - Debug - Websocket connection opened
+2025-04-17 09:21:57.381 - Notification - You have earned 1 points.
+2025-04-17 09:22:39.167 - Notification - You have earned 1 points.
+2025-04-17 09:22:44.1 - Notification - You have earned 1 points.
+2025-04-17 09:24:51.225 - Debug - POST 2 files to https://gamification.thibber.be/api/v1/experimentData :- Actions.csv (882 bytes)
+- EvaluationLogs.txt (1193 bytes)
+
+2025-04-17 09:24:51.435 - Notification - File successfully sent, thanks for your help ! 😉
+2025-04-17 09:37:55.905 - Error - Websocket failure : Connection reset
+2025-04-17 09:37:55.905 - Debug - Web socket state : Error
+2025-04-17 09:44:16.182 - Notification - Game mode selected : achievements
+2025-04-17 09:44:37.416 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'The Tester' achievement!
+2025-04-17 09:44:37.456 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:44:49.326 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:44:49.334 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:44:54.219 - Notification - Congratulations! You unlocked level 1 of the 'The Tester' achievement!
+2025-04-17 09:44:54.236 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:49:38.596 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:49:38.599 - Debug - Web socket state : Connecting
+2025-04-17 09:49:38.77 - Debug - Web socket state : Connected
+2025-04-17 09:49:38.77 - Notification - Connected to gamification server
+2025-04-17 09:49:38.773 - Debug - Websocket connection opened
+2025-04-17 09:49:43.986 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Double check' achievement!
+2025-04-17 09:49:46.933 - Notification - You are making progress on an achievement! You have already reached 26,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:49:46.947 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:08.294 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:35.983 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:51:04.251 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:51:16.311 - Notification - You are making progress on an achievement! You have already reached 53,33% of the next level of the 'The Tester' achievement!
+2025-04-17 09:51:16.33 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:51:21.325 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:51:32.994 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:54:02.084 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Double check' achievement!
+2025-04-17 09:54:04.803 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:55:43.284 - Error - Websocket failure : null
+2025-04-17 09:55:43.284 - Debug - Web socket state : Error
+2025-04-17 09:56:45.923 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:56:45.923 - Debug - Web socket state : Connecting
+2025-04-17 09:56:46.071 - Debug - Web socket state : Connected
+2025-04-17 09:56:46.076 - Notification - Connected to gamification server
+2025-04-17 09:56:46.076 - Debug - Websocket connection opened
+2025-04-17 09:56:56.585 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'The Tester' achievement!
+2025-04-17 09:56:56.602 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:57:04.245 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:57:30.888 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:59:23.552 - Notification - Congratulations! You unlocked level 2 of the 'The Tester' achievement!
+2025-04-17 09:59:23.56 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 10:03:09.223 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 10:03:24.868 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 10:05:02.973 - Debug - POST 3 files to https://gamification.thibber.be/api/v1/experimentData :- AchievementsReport.csv (3044 bytes)
+- Actions.csv (2489 bytes)
+- EvaluationLogs.txt (5873 bytes)
+

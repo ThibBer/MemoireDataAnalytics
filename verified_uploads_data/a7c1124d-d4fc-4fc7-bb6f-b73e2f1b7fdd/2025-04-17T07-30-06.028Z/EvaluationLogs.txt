@@ -1,0 +1,18 @@
+2025-04-17 09:08:16.507 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Double check' achievement!
+2025-04-17 09:09:28.281 - Notification - Congratulations! You unlocked level 1 of the 'Double check' achievement!
+2025-04-17 09:11:46.744 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Double check' achievement!
+2025-04-17 09:12:24.149 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:12:29.011 - Notification - Congratulations! You unlocked level 1 of the 'Assert and Tested' achievement!
+2025-04-17 09:13:09.302 - Notification - You are making progress on an achievement! You have already reached 30,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:15:19.593 - Notification - Game mode selected : achievements
+2025-04-17 09:15:20.897 - Notification - You are making progress on an achievement! You have already reached 40,00% of the next level of the 'Shine in new splendour' achievement!
+2025-04-17 09:15:20.909 - Notification - You are making progress on an achievement! You have already reached 60,00% of the next level of the 'Shine in new splendour' achievement!
+2025-04-17 09:16:07.115 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:20:36.207 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Double check' achievement!
+2025-04-17 09:20:44.138 - Notification - Congratulations! You unlocked level 2 of the 'Assert and Tested' achievement!
+2025-04-17 09:23:50.023 - Notification - Congratulations! You unlocked level 2 of the 'Double check' achievement!
+2025-04-17 09:29:56.336 - Notification - You are making progress on an achievement! You have already reached 26,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:30:05.888 - Debug - POST 3 files to https://gamification.thibber.be/api/v1/experimentData :- EvaluationLogs.txt (2097 bytes)
+- AchievementsReport.csv (3857 bytes)
+- Actions.csv (2533 bytes)
+

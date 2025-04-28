@@ -1,0 +1,71 @@
+2025-04-17 09:07:51.476 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Double check' achievement!
+2025-04-17 09:08:25.145 - Notification - Congratulations! You unlocked level 1 of the 'Double check' achievement!
+2025-04-17 09:08:26.558 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:08:27.053 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'The Tester' achievement!
+2025-04-17 09:08:27.065 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:08:27.068 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:08:27.24 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Check your methods' achievement!
+2025-04-17 09:08:27.299 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Check your classes' achievement!
+2025-04-17 09:08:27.341 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Check your branches' achievement!
+2025-04-17 09:08:39.541 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:08:40.045 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:08:40.056 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:08:46.435 - Notification - Congratulations! You unlocked level 1 of the 'Check your methods' achievement!
+2025-04-17 09:08:46.478 - Notification - Congratulations! You unlocked level 1 of the 'Check your classes' achievement!
+2025-04-17 09:08:46.493 - Notification - Congratulations! You unlocked level 1 of the 'Check your branches' achievement!
+2025-04-17 09:09:34.129 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Double check' achievement!
+2025-04-17 09:09:34.137 - Notification - You are making progress on an achievement! You have already reached 40,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:09:35.882 - Notification - Congratulations! You unlocked level 1 of the 'Assert and Tested' achievement!
+2025-04-17 09:09:36.397 - Notification - Congratulations! You unlocked level 1 of the 'The Tester' achievement!
+2025-04-17 09:09:36.409 - Notification - Congratulations! You unlocked level 1 of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:09:38.559 - Notification - You are making progress on an achievement! You have already reached 28,00% of the next level of the 'Line-by-line' achievement!
+2025-04-17 09:09:38.593 - Notification - You are making progress on an achievement! You have already reached 32,00% of the next level of the 'Check your methods' achievement!
+2025-04-17 09:09:47.106 - Notification - You are making progress on an achievement! You have already reached 26,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:10:10.544 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:10:13.389 - Notification - You are making progress on an achievement! You have already reached 52,00% of the next level of the 'Check your methods' achievement!
+2025-04-17 09:11:51.288 - Notification - You are making progress on an achievement! You have already reached 56,00% of the next level of the 'Line-by-line' achievement!
+2025-04-17 09:11:51.342 - Notification - You are making progress on an achievement! You have already reached 32,00% of the next level of the 'Check your branches' achievement!
+2025-04-17 09:12:23.339 - Error - Websocket failure : Connection reset
+2025-04-17 09:12:23.34 - Debug - Web socket state : Error
+2025-04-17 09:12:44.817 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:12:46.036 - Notification - You are making progress on an achievement! You have already reached 53,33% of the next level of the 'The Tester' achievement!
+2025-04-17 09:13:05.151 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:13:05.803 - Notification - You are making progress on an achievement! You have already reached 28,00% of the next level of the 'Check your classes' achievement!
+2025-04-17 09:13:21.291 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:13:21.292 - Debug - Web socket state : Connecting
+2025-04-17 09:13:21.447 - Debug - Web socket state : Connected
+2025-04-17 09:13:21.447 - Notification - Connected to gamification server
+2025-04-17 09:13:21.448 - Debug - Websocket connection opened
+2025-04-17 09:13:51.549 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Double check' achievement!
+2025-04-17 09:13:53.757 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:13:53.859 - Notification - You are making progress on an achievement! You have already reached 75,00% of the next level of the 'Line-by-line' achievement!
+2025-04-17 09:13:53.872 - Notification - You are making progress on an achievement! You have already reached 78,00% of the next level of the 'Check your methods' achievement!
+2025-04-17 09:14:27.52 - Notification - You are making progress on an achievement! You have already reached 60,00% of the next level of the 'Check your branches' achievement!
+2025-04-17 09:16:32.149 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:16:32.189 - Notification - Congratulations! You unlocked level 2 of the 'Assert and Tested' achievement!
+2025-04-17 09:16:32.66 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'The Tester' achievement!
+2025-04-17 09:16:32.67 - Notification - Congratulations! You unlocked level 2 of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:16:32.765 - Notification - Congratulations! You unlocked level 2 of the 'Check your methods' achievement!
+2025-04-17 09:16:32.813 - Notification - You are making progress on an achievement! You have already reached 76,00% of the next level of the 'Check your branches' achievement!
+2025-04-17 09:18:48.176 - Notification - Congratulations! You unlocked level 2 of the 'Double check' achievement!
+2025-04-17 09:18:48.184 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:18:58.37 - Notification - Congratulations! You unlocked level 1 of the 'Line-by-line' achievement!
+2025-04-17 09:19:28.803 - Notification - Congratulations! You unlocked level 2 of the 'The Tester' achievement!
+2025-04-17 09:20:06.665 - Notification - Congratulations! You unlocked level 1 of the 'Safety First' achievement!
+2025-04-17 09:20:08.477 - Notification - You are making progress on an achievement! You have already reached 52,00% of the next level of the 'Check your classes' achievement!
+2025-04-17 09:20:29.257 - Notification - Congratulations! You unlocked level 2 of the 'Check your branches' achievement!
+2025-04-17 09:20:51.889 - Notification - You are making progress on an achievement! You have already reached 75,00% of the next level of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:21:47.899 - Notification - You are making progress on an achievement! You have already reached 75,00% of the next level of the 'Check your methods' achievement!
+2025-04-17 09:22:32.536 - Notification - You are making progress on an achievement! You have already reached 25,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:22:38.739 - Notification - You are making progress on an achievement! You have already reached 76,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:22:38.832 - Notification - You are making progress on an achievement! You have already reached 51,00% of the next level of the 'Line-by-line' achievement!
+2025-04-17 09:22:38.878 - Notification - You are making progress on an achievement! You have already reached 76,00% of the next level of the 'Check your classes' achievement!
+2025-04-17 09:23:04.571 - Notification - Congratulations! You unlocked level 3 of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:24:53.8 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:24:54.399 - Notification - You are making progress on an achievement! You have already reached 76,00% of the next level of the 'Check your branches' achievement!
+2025-04-17 09:25:21.882 - Notification - Congratulations! You unlocked level 3 of the 'Check your methods' achievement!
+2025-04-17 09:25:50.711 - Debug - POST 4 files to https://gamification.thibber.be/api/v1/experimentData :- AchievementsReport.csv (26745 bytes)
+- Actions.csv (20172 bytes)
+- Coverage.csv (2152 bytes)
+- EvaluationLogs.txt (9672 bytes)
+

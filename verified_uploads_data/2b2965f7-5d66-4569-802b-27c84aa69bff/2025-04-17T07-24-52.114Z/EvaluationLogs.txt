@@ -1,0 +1,21 @@
+2025-04-17 09:14:16.17 - Notification - You have earned 2 points.
+2025-04-17 09:14:16.235 - Notification - You have earned 1 points.
+2025-04-17 09:14:16.359 - Notification - You have earned 1 points.
+2025-04-17 09:14:16.419 - Notification - You have earned 1 points.
+2025-04-17 09:14:21.506 - Notification - You have earned 1 points.
+2025-04-17 09:16:32.068 - Notification - You have earned 1 points.
+2025-04-17 09:16:34.833 - Notification - You have earned 1 points.
+2025-04-17 09:18:14.996 - Notification - You have earned 1 points.
+2025-04-17 09:20:47.807 - Error - Websocket failure : null
+2025-04-17 09:20:47.824 - Debug - Web socket state : Error
+2025-04-17 09:21:06.344 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:21:06.344 - Debug - Web socket state : Connecting
+2025-04-17 09:21:06.492 - Debug - Web socket state : Connected
+2025-04-17 09:21:06.492 - Notification - Connected to gamification server
+2025-04-17 09:21:06.495 - Debug - Websocket connection opened
+2025-04-17 09:21:57.381 - Notification - You have earned 1 points.
+2025-04-17 09:22:39.167 - Notification - You have earned 1 points.
+2025-04-17 09:22:44.1 - Notification - You have earned 1 points.
+2025-04-17 09:24:51.225 - Debug - POST 2 files to https://gamification.thibber.be/api/v1/experimentData :- Actions.csv (882 bytes)
+- EvaluationLogs.txt (1193 bytes)
+

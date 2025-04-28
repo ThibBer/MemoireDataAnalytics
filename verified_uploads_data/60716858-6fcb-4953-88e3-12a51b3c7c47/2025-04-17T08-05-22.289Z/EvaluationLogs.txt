@@ -1,0 +1,110 @@
+2025-04-17 09:06:23.49 - Notification - You have earned 1 points.
+2025-04-17 09:10:00.658 - Notification - You have earned 1 points.
+2025-04-17 09:10:25.845 - Notification - You have earned 7 points.
+2025-04-17 09:10:33.18 - Notification - You have earned 7 points.
+2025-04-17 09:10:47.225 - Notification - You have earned 108 points.
+2025-04-17 09:11:57.846 - Notification - You have earned 3753 points.
+2025-04-17 09:15:22.568 - Notification - You have earned 706 points.
+2025-04-17 09:15:56.811 - Error - Websocket failure : null
+2025-04-17 09:15:56.811 - Debug - Web socket state : Error
+2025-04-17 09:16:59.801 - Notification - Game mode selected : achievements
+2025-04-17 09:17:00.25 - Notification - Game mode selected : leaderboard
+2025-04-17 09:17:10.06 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:17:10.06 - Debug - Web socket state : Connecting
+2025-04-17 09:17:10.214 - Debug - Web socket state : Connected
+2025-04-17 09:17:10.215 - Notification - Connected to gamification server
+2025-04-17 09:17:10.215 - Debug - Websocket connection opened
+2025-04-17 09:17:56.116 - Notification - You have earned 1 points.
+2025-04-17 09:18:22.255 - Notification - You have earned 1 points.
+2025-04-17 09:18:22.267 - Notification - You have earned 1 points.
+2025-04-17 09:18:33.1 - Notification - You have earned 1 points.
+2025-04-17 09:22:35.147 - Notification - You have earned 1 points.
+2025-04-17 09:22:35.159 - Notification - You have earned 1 points.
+2025-04-17 09:22:57.219 - Notification - You have earned 1 points.
+2025-04-17 09:22:57.229 - Notification - You have earned 1 points.
+2025-04-17 09:24:19.31 - Debug - POST 2 files to https://gamification.thibber.be/api/v1/experimentData :- Actions.csv (1352 bytes)
+- EvaluationLogs.txt (1613 bytes)
+
+2025-04-17 09:24:19.429 - Notification - File successfully sent, thanks for your help ! 😉
+2025-04-17 09:24:21.111 - Debug - POST 2 files to https://gamification.thibber.be/api/v1/experimentData :- Actions.csv (1352 bytes)
+- EvaluationLogs.txt (1872 bytes)
+
+2025-04-17 09:24:21.151 - Notification - File successfully sent, thanks for your help ! 😉
+2025-04-17 09:27:05.353 - Notification - You have earned 772 points.
+2025-04-17 09:27:05.397 - Notification - You have earned 579 points.
+2025-04-17 09:27:05.436 - Notification - You have earned 1 points.
+2025-04-17 09:27:44.412 - Notification - You have earned 1292 points.
+2025-04-17 09:27:48.013 - Notification - You have earned 969 points.
+2025-04-17 09:27:48.083 - Notification - You have earned 1 points.
+2025-04-17 09:27:48.137 - Notification - You have earned 1 points.
+2025-04-17 09:28:47.364 - Notification - You have earned 8152 points.
+2025-04-17 09:28:57.407 - Error - Websocket failure : null
+2025-04-17 09:28:57.408 - Debug - Web socket state : Error
+2025-04-17 09:32:06.304 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:32:06.317 - Debug - Web socket state : Connecting
+2025-04-17 09:32:06.5 - Debug - Web socket state : Connected
+2025-04-17 09:32:07.192 - Notification - Connected to gamification server
+2025-04-17 09:32:07.198 - Debug - Websocket connection opened
+2025-04-17 09:34:25.211 - Notification - You have earned 1 points.
+2025-04-17 09:34:46.609 - Notification - You have earned 1 points.
+2025-04-17 09:45:27.498 - Notification - Game mode selected : achievements
+2025-04-17 09:46:03.316 - Notification - Congratulations! You unlocked level 1 of the 'Double check' achievement!
+2025-04-17 09:46:03.342 - Notification - You are making progress on an achievement! You have already reached 40,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:46:42.472 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'The Tester' achievement!
+2025-04-17 09:46:42.486 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:47:07.047 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:47:07.059 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:47:07.063 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:47:07.355 - Notification - You are making progress on an achievement! You have already reached 40,00% of the next level of the 'Check your methods' achievement!
+2025-04-17 09:47:07.419 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Check your classes' achievement!
+2025-04-17 09:48:05.683 - Notification - Congratulations! You unlocked level 1 of the 'The Tester' achievement!
+2025-04-17 09:48:05.694 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:49:46.304 - Notification - You are making progress on an achievement! You have already reached 26,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:49:46.315 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:49:57.006 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:49:58.905 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:01.188 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:03.356 - Notification - You are making progress on an achievement! You have already reached 53,33% of the next level of the 'The Tester' achievement!
+2025-04-17 09:50:03.368 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:05.223 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:06.362 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:08.101 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:10.649 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'The Tester' achievement!
+2025-04-17 09:50:10.662 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:12.211 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:13.262 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:15.754 - Notification - Congratulations! You unlocked level 2 of the 'The Tester' achievement!
+2025-04-17 09:50:15.764 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:21.996 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:24.132 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:25.968 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:28.165 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:30.024 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:32.237 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:34.225 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:38.023 - Notification - You are making progress on an achievement! You have already reached 76,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:50:38.035 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:40.067 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:42.247 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:44.988 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:47.235 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:49.692 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:52.049 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:54.419 - Notification - Congratulations! You unlocked level 3 of the 'The Tester' achievement!
+2025-04-17 09:50:54.431 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:56.879 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:59.022 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:51:01.296 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:51:10.714 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:51:16.23 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:51:19.328 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:51:21.44 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:51:52.942 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:54:25.732 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Safety First' achievement!
+2025-04-17 10:01:51.915 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Double check' achievement!
+2025-04-17 10:05:11.174 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 10:05:22.277 - Debug - POST 4 files to https://gamification.thibber.be/api/v1/experimentData :- AchievementsReport.csv (5665 bytes)
+- Actions.csv (5864 bytes)
+- Coverage.csv (227 bytes)
+- EvaluationLogs.txt (10472 bytes)
+
