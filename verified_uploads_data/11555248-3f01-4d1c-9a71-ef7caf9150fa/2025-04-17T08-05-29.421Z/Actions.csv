@@ -1,6 +1,0 @@
-Action,Name,Points,GameMode,Timestamp
-AddTestsAchievement,Safety First,1,LEADERBOARD,2025-04-17 09:20:03.827
-RefactorAddXAssertionsAchievement,Double check,1,LEADERBOARD,2025-04-17 09:22:40.219
-RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:46:09.767
-RefactorXTestNamesAchievement,The Eponym,1,ACHIEVEMENTS,2025-04-17 09:53:20.553
-RefactorAddXAssertionsAchievement,Double check,2,ACHIEVEMENTS,2025-04-17 09:55:37.497

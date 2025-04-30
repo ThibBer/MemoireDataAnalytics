@@ -1,2 +1,0 @@
-totalClassCount,coveredClassCount,totalMethodCount,coveredMethodCount,totalLineCount,coveredLineCount,totalBranchCount,coveredBranchCount,testedClass,testName
-1,1,8,5,14,7,0,0,be.thibber.gamification.Coords,CoordsTest

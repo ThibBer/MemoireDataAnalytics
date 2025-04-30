@@ -1,2 +1,0 @@
-totalClassCount,coveredClassCount,totalMethodCount,coveredMethodCount,totalLineCount,coveredLineCount,totalBranchCount,coveredBranchCount,testedClass,testName
-1,1,10,3,32,11,16,3,be.thibber.gamification.City,CityTest.testParkingUsagePercentage

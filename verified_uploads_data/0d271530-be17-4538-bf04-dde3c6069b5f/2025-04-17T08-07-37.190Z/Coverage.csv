@@ -1,6 +1,0 @@
-totalClassCount,coveredClassCount,totalMethodCount,coveredMethodCount,totalLineCount,coveredLineCount,totalBranchCount,coveredBranchCount,testedClass,testName
-1,1,8,8,15,15,6,6,be.thibber.gamification.vehicle.Vehicle,VehicleTest
-1,1,8,8,15,15,6,6,be.thibber.gamification.vehicle.Vehicle,VehicleTest
-1,1,8,8,14,14,0,0,be.thibber.gamification.Coords,CoordsTest
-1,1,11,11,22,21,10,9,be.thibber.gamification.vehicle.Car,CarTest
-1,1,11,11,22,22,10,10,be.thibber.gamification.vehicle.Car,CarTest
