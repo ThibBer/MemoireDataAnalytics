@@ -1,0 +1,34 @@
+Formulaire,Titre,Type,Label Gauche,Label Droit
+demographic,Compétences java,SCALE,Débutant·e,Expert·e
+demographic,Compétences en écriture de test,SCALE,Débutant·e,Expert·e
+demographic,Motivation initiale à écrire des tests,SCALE,Faible,Elevée
+achievements,Facilité d'utilisation du mode achievements,SCALE,Facile,Difficile
+achievements,Avis sur l'utilisation des achievements,SCALE,Ennuyeux,Amusant
+achievements,Ressenti lors de l'utilisation des achievements ?,SCALE,Accomplissement,Frustration
+achievements,Ressenti après avoir utilisé les achievements,SCALE,Fatigué·e,Stimulé·e
+achievements,J'ai été distrait·e à cause des achievements pendant que j'écrivais mes tests ?,SCALE,Pas du tout,Tout à fait
+achievements,Motivation à écrire des tests avec le système d'achievements,SCALE,Faible,Elevée
+achievements,Le système d'achievement m'incite à écrire plus de tests,SCALE,Pas du tout,Tout à fait
+achievements,Le système d'achievement me permet de voir les points faibles de mes tests,SCALE,Pas du tout,Tout à fait
+achievements,"Votre intérêt pour un système gamifié avec uniquement des achievements diminuerait-il au fil du temps (plusieurs semaines/mois/années) ? 
+(Sentiment de lassitude)",SCALE,Pas du tout,Tout à fait
+leaderboard,Facilité d'utilisation du mode leaderboard,SCALE,Facile,Difficile
+leaderboard,Avis sur l'utilisation du leaderboard,SCALE,Ennuyeux,Amusant
+leaderboard,Ressenti lors de l'utilisation du leaderboard,SCALE,Accomplissement,Frustration
+leaderboard,Ressenti après avoir utilisé le leaderboard,SCALE,Fatigué·e,Stimulé·e
+leaderboard,J'ai été distrait·e à cause du leaderboard pendant que j'écrivais mes tests ?,SCALE,Pas du tout,Tout à fait
+leaderboard,Motivation à écrire des tests avec le système de leaderboard,SCALE,Faible,Elevée
+leaderboard,Le système de leaderboard m'incite à écrire plus de tests,SCALE,Pas du tout,Tout à fait
+leaderboard,Le système de leaderboard me permet de voir les points faibles de mes tests,SCALE,Pas du tout,Tout à fait
+leaderboard,"Votre intérêt pour un système gamifié avec uniquement un leaderboard diminuerait-il au fil du temps (plusieurs semaines/mois/années) ? 
+(Sentiment de lassitude)",SCALE,Pas du tout,Tout à fait
+satisfaction,"Après avoir utilisé le plugin,  j'évalue mes compétences en écriture de test",SCALE,Débutant·e,Expert·e
+satisfaction,"Après avoir utilisé le plugin, j'évalue ma motivation à écrire des tests",SCALE,Faible,Elevée
+satisfaction,"Clarté des règles du jeu (achievements, leaderboard)",SCALE,Pas du tout,Tout à fait
+satisfaction,Design et intégration dans IntelliJ,SCALE,Mauvais,Très bon
+satisfaction,"Selon vous, quel mode est le plus fun ?",SCALE,Leaderboard,Achievement
+satisfaction,"J'ai été tenté d'écrire plus de tests pour augmenter mes points, même si les tests ne sont pas spécialement pertinents",SCALE,Pas du tout,Tout à fait
+satisfaction,"Seriez-vous intéressé·e par l'utilisation d'outils gamifiés durant certains cours ?
+(Vérification et Validation, Génie Logiciel, ..)",SCALE,Pas du tout,Tout à fait
+satisfaction,"Quel mode j'ai envie d'utiliser dans un cours où je peux être confronté à du test logiciel ? 
+(Vérification et Validation, Génie Logiciel, ..)",SCALE,Leaderboard,Achievement
