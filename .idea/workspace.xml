@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="214d0788-f228-478e-88ba-b7a74479e1fe" name="Changes" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/arrange data/Database data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/arrange data/Database data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/forms/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/forms/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/forms/invalid-data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/forms/invalid-data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/arrange data/Merge forms data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/arrange data/Merge forms data.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
