@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="fr"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>Building.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">gamified-testing</a> &gt; <a href="index.source.html" class="el_package">be.thibber.gamification.building</a> &gt; <span class="el_source">Building.java</span></div><h1>Building.java</h1><pre class="source lang-java linenums">package be.thibber.gamification.building;
+
+public abstract class Building {
+    private String address;
+    private double groundSurface;
+    private double floorsCount;
+
+    /**
+     * Constructor of Building
+     * @param address address
+     * @param groundSurface ground surface
+     * @param floorsCount floors count
+     */
+<span class="fc" id="L14">    public Building(String address, double groundSurface, double floorsCount) {</span>
+<span class="fc" id="L15">        setAddress(address);</span>
+<span class="fc" id="L16">        setGroundSurface(groundSurface);</span>
+<span class="fc" id="L17">        setFloorsCount(floorsCount);</span>
+<span class="fc" id="L18">    }</span>
+
+    /**
+     * @return Get address
+     */
+    public String getAddress() {
+<span class="fc" id="L24">        return address;</span>
+    }
+
+    /**
+     * @param address Set address
+     */
+    public void setAddress(String address) {
+<span class="fc" id="L31">        this.address = address;</span>
+<span class="fc" id="L32">    }</span>
+
+    /**
+     * @return Get ground surface
+     */
+    public double getGroundSurface() {
+<span class="nc" id="L38">        return groundSurface;</span>
+    }
+
+    /**
+     * @param groundSurface Set building ground surface
+     */
+    public void setGroundSurface(double groundSurface) {
+<span class="fc" id="L45">        this.groundSurface = groundSurface;</span>
+<span class="fc" id="L46">    }</span>
+
+    /**
+     * @return Get floors count
+     */
+    public double getFloorsCount() {
+<span class="nc" id="L52">        return floorsCount;</span>
+    }
+
+    /**
+     * @param floorsCount Set floors count, value must be &gt; 1
+     */
+    public void setFloorsCount(double floorsCount) {
+<span class="pc bpc" id="L59" title="1 of 2 branches missed.">        if(floorsCount &lt;= 0) {</span>
+<span class="nc" id="L60">            throw new IllegalArgumentException(&quot;Floors count must be &gt; 1&quot;);</span>
+        }
+
+<span class="fc" id="L63">        this.floorsCount = floorsCount;</span>
+<span class="fc" id="L64">    }</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.13.202504020838</span></div></body></html>

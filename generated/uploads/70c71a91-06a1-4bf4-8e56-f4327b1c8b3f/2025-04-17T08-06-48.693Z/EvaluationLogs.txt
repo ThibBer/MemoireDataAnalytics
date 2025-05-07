@@ -1,0 +1,141 @@
+2025-04-17 09:08:06.345 - Notification - You are making progress on an achievement! You have already reached 40,00% of the next level of the 'Shine in new splendour' achievement!
+2025-04-17 09:09:17.43 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'The Tester' achievement!
+2025-04-17 09:09:17.469 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:10:29.052 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:10:29.097 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:11:17.272 - Notification - You are making progress on an achievement! You have already reached 30,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:11:40.195 - Notification - Congratulations! You unlocked level 1 of the 'The Tester' achievement!
+2025-04-17 09:11:40.232 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:12:26.802 - Notification - Congratulations! You unlocked level 1 of the 'Double check' achievement!
+2025-04-17 09:12:37.337 - Notification - You are making progress on an achievement! You have already reached 26,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:12:37.369 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:13:08.833 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:13:24.324 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:13:39.762 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:13:53.516 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Double check' achievement!
+2025-04-17 09:13:57.335 - Notification - You are making progress on an achievement! You have already reached 53,33% of the next level of the 'The Tester' achievement!
+2025-04-17 09:13:57.367 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:15:09.23 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Double check' achievement!
+2025-04-17 09:15:12.923 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:15:18.123 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:15:18.128 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:15:18.552 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Check your methods' achievement!
+2025-04-17 09:15:18.599 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Check your classes' achievement!
+2025-04-17 09:16:37.452 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:17:48.223 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:19:32.162 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:19:32.486 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'The Tester' achievement!
+2025-04-17 09:19:32.535 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:21:00.719 - Notification - Congratulations! You unlocked level 1 of the 'Assert and Tested' achievement!
+2025-04-17 09:21:00.822 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:21:00.967 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:21:01.053 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:21:31.03 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:22:00.754 - Notification - Congratulations! You unlocked level 2 of the 'Assert and Tested' achievement!
+2025-04-17 09:22:01.082 - Notification - Congratulations! You unlocked level 2 of the 'The Tester' achievement!
+2025-04-17 09:22:01.109 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:22:22.141 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:22:32.164 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:23:05.211 - Notification - Congratulations! You unlocked level 2 of the 'Double check' achievement!
+2025-04-17 09:23:14.156 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:23:22.779 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:23:30.097 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:24:15.432 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:24:28.548 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:25:27.494 - Notification - You are making progress on an achievement! You have already reached 76,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:25:27.523 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:25:49.96 - Debug - POST 4 files to https://gamification.thibber.be/api/v1/experimentData :- AchievementsReport.csv (7398 bytes)
+- Actions.csv (5337 bytes)
+- Coverage.csv (218 bytes)
+- EvaluationLogs.txt (6331 bytes)
+
+2025-04-17 09:25:50.418 - Notification - File successfully sent, thanks for your help ! 😉
+2025-04-17 09:26:26.317 - Notification - You are making progress on an achievement! You have already reached 26,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:26:26.61 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:37:54.341 - Error - Websocket failure : Connection reset
+2025-04-17 09:37:54.342 - Debug - Web socket state : Error
+2025-04-17 09:46:30.944 - Notification - Game mode selected : leaderboard
+2025-04-17 09:46:47.017 - Debug - Connect to wss://gamification.thibber.be/ws
+2025-04-17 09:46:47.018 - Debug - Web socket state : Connecting
+2025-04-17 09:46:48.676 - Debug - Web socket state : Connected
+2025-04-17 09:46:48.678 - Notification - Connected to gamification server
+2025-04-17 09:46:48.679 - Debug - Websocket connection opened
+2025-04-17 09:46:53.486 - Notification - You have earned 2 points.
+2025-04-17 09:46:53.981 - Notification - You have earned 2 points.
+2025-04-17 09:46:54.307 - Notification - You have earned 2 points.
+2025-04-17 09:46:54.341 - Notification - You have earned 2 points.
+2025-04-17 09:46:54.431 - Notification - You have earned 1 points.
+2025-04-17 09:46:54.543 - Notification - You have earned 1 points.
+2025-04-17 09:48:01.788 - Notification - You have earned 1 points.
+2025-04-17 09:48:01.817 - Notification - You have earned 1 points.
+2025-04-17 09:48:05.89 - Notification - You have earned 1 points.
+2025-04-17 09:48:21.389 - Notification - You have earned 2 points.
+2025-04-17 09:48:21.484 - Notification - You have earned 1 points.
+2025-04-17 09:48:32.914 - Notification - You have earned 1 points.
+2025-04-17 09:48:37.631 - Notification - You have earned 1 points.
+2025-04-17 09:49:08.595 - Notification - You have earned 2 points.
+2025-04-17 09:49:09.032 - Notification - You have earned 1 points.
+2025-04-17 09:49:36.918 - Notification - You have earned 1 points.
+2025-04-17 09:49:40.848 - Notification - You have earned 1 points.
+2025-04-17 09:50:34.471 - Notification - You have earned 2 points.
+2025-04-17 09:50:34.525 - Notification - You have earned 2 points.
+2025-04-17 09:50:34.596 - Notification - You have earned 2 points.
+2025-04-17 09:50:34.808 - Notification - You have earned 1 points.
+2025-04-17 09:50:34.993 - Notification - You have earned 2 points.
+2025-04-17 09:50:35.355 - Notification - You have earned 1 points.
+2025-04-17 09:50:40.015 - Notification - You have earned 2 points.
+2025-04-17 09:50:40.064 - Notification - You have earned 2 points.
+2025-04-17 09:50:40.157 - Notification - You have earned 2 points.
+2025-04-17 09:50:40.26 - Notification - You have earned 1 points.
+2025-04-17 09:50:40.413 - Notification - You have earned 2 points.
+2025-04-17 09:50:44.318 - Notification - You have earned 1 points.
+2025-04-17 09:50:44.638 - Notification - You have earned 1 points.
+2025-04-17 09:50:44.857 - Notification - You have earned 12 points.
+2025-04-17 09:50:44.939 - Notification - You have earned 7 points.
+2025-04-17 09:50:45.063 - Notification - You have earned 1 points.
+2025-04-17 09:51:19.712 - Notification - You have earned 1 points.
+2025-04-17 09:51:19.735 - Notification - You have earned 1 points.
+2025-04-17 09:52:19.431 - Notification - You have earned 1 points.
+2025-04-17 09:52:45.473 - Notification - You have earned 1 points.
+2025-04-17 09:53:00.869 - Notification - You have earned 4 points.
+2025-04-17 09:53:00.964 - Notification - You have earned 1 points.
+2025-04-17 09:53:09.898 - Notification - You have earned 4 points.
+2025-04-17 09:53:09.939 - Notification - You have earned 2 points.
+2025-04-17 09:53:10.029 - Notification - You have earned 2 points.
+2025-04-17 09:53:10.172 - Notification - You have earned 2 points.
+2025-04-17 09:53:10.342 - Notification - You have earned 1 points.
+2025-04-17 09:53:15.242 - Notification - You have earned 2 points.
+2025-04-17 09:53:15.534 - Notification - You have earned 1 points.
+2025-04-17 09:53:15.69 - Notification - You have earned 1 points.
+2025-04-17 09:53:17.715 - Notification - You have earned 14 points.
+2025-04-17 09:53:17.774 - Notification - You have earned 8 points.
+2025-04-17 09:53:17.846 - Notification - You have earned 1 points.
+2025-04-17 09:56:16.403 - Notification - You have earned 1 points.
+2025-04-17 09:56:16.434 - Notification - You have earned 1 points.
+2025-04-17 09:56:50.375 - Notification - You have earned 1 points.
+2025-04-17 09:56:50.59 - Notification - You have earned 1 points.
+2025-04-17 09:57:18.979 - Notification - You have earned 1 points.
+2025-04-17 09:57:19.877 - Notification - You have earned 1 points.
+2025-04-17 09:57:42.815 - Notification - You have earned 1 points.
+2025-04-17 09:57:43.126 - Notification - You have earned 1 points.
+2025-04-17 09:57:46.743 - Notification - You have earned 1 points.
+2025-04-17 09:57:48.508 - Notification - You have earned 1 points.
+2025-04-17 09:57:48.722 - Notification - You have earned 1 points.
+2025-04-17 09:57:48.83 - Notification - You have earned 1 points.
+2025-04-17 09:57:48.962 - Notification - You have earned 4 points.
+2025-04-17 09:57:49.018 - Notification - You have earned 3 points.
+2025-04-17 09:57:49.113 - Notification - You have earned 1 points.
+2025-04-17 10:00:23.07 - Notification - You have earned 1 points.
+2025-04-17 10:03:03.108 - Notification - You have earned 1 points.
+2025-04-17 10:03:06.126 - Notification - You have earned 1 points.
+2025-04-17 10:03:46.681 - Notification - You have earned 1 points.
+2025-04-17 10:03:50.423 - Notification - You have earned 1 points.
+2025-04-17 10:05:02.141 - Notification - You have earned 1 points.
+2025-04-17 10:05:24.89 - Notification - You have earned 1 points.
+2025-04-17 10:05:52.329 - Notification - You have earned 1 points.
+2025-04-17 10:06:30.572 - Notification - You have earned 1 points.
+2025-04-17 10:06:49.167 - Debug - POST 4 files to https://gamification.thibber.be/api/v1/experimentData :- AchievementsReport.csv (8015 bytes)
+- Actions.csv (12488 bytes)
+- Coverage.csv (396 bytes)
+- EvaluationLogs.txt (12445 bytes)
+

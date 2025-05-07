@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="fr"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>Vehicle.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">gamified-testing</a> &gt; <a href="index.source.html" class="el_package">be.thibber.gamification.vehicle</a> &gt; <span class="el_source">Vehicle.java</span></div><h1>Vehicle.java</h1><pre class="source lang-java linenums">package be.thibber.gamification.vehicle;
+
+/**
+ * The {@code Vehicle} class represents a vehicle with a modifiable speed.
+ * It provides methods to accelerate, brake, and reset the vehicle's speed,
+ * as well as to check if the vehicle is stopped.
+ */
+public class Vehicle {
+    /**
+     * The current speed of the vehicle. Must be greater than or equal to 0.
+     */
+    private double speed;
+
+    /**
+     * Constructs a new {@code Vehicle} with the specified initial speed &amp; seats count.
+     *
+     * @param speed the initial speed of the vehicle; must be greater than or equal to 0
+     * @throws IllegalArgumentException if {@code speed} is negative
+     */
+<span class="fc" id="L20">    public Vehicle(double speed) {</span>
+<span class="fc" id="L21">        setSpeed(speed);</span>
+<span class="fc" id="L22">    }</span>
+
+    /**
+     * Constructs a new {@code Vehicle}
+     *
+     * @throws IllegalArgumentException if {@code speed} is negative
+     */
+    public Vehicle() {
+<span class="nc" id="L30">        this(0);</span>
+<span class="nc" id="L31">    }</span>
+
+    /**
+     * Returns the current speed of the vehicle.
+     *
+     * @return the speed of the vehicle
+     */
+    public double getSpeed() {
+<span class="fc" id="L39">        return speed;</span>
+    }
+
+    /**
+     * Sets the speed of the vehicle.
+     *
+     * @param speed the new speed; must be greater than or equal to 0
+     * @throws IllegalArgumentException if {@code speed} is negative
+     * @throws IllegalStateException if {@code passengers} is empty
+     */
+    public void setSpeed(double speed) {
+<span class="pc bpc" id="L50" title="1 of 2 branches missed.">        if (speed &lt; 0) {</span>
+<span class="nc" id="L51">            throw new IllegalArgumentException(&quot;Speed must be greater than or equal to 0&quot;);</span>
+        }
+
+<span class="fc" id="L54">        this.speed = speed;</span>
+<span class="fc" id="L55">    }</span>
+
+    /**
+     * Increases the speed of the vehicle by the specified increment.
+     *
+     * @param increment the amount to increase the speed; must be positive
+     * @throws IllegalArgumentException if {@code increment} is negative
+     */
+    public void accelerate(double increment) {
+<span class="nc bnc" id="L64" title="All 2 branches missed.">        if (increment &lt; 0) {</span>
+<span class="nc" id="L65">            throw new IllegalArgumentException(&quot;Increment must be positive&quot;);</span>
+        }
+
+<span class="nc" id="L68">        setSpeed(this.speed + increment);</span>
+<span class="nc" id="L69">    }</span>
+
+    /**
+     * Decreases the speed of the vehicle by the specified decrement.
+     * The speed will not go below 0.
+     *
+     * @param decrement the amount to decrease the speed; must be positive
+     * @throws IllegalArgumentException if {@code decrement} is negative
+     */
+    public void brake(double decrement) {
+<span class="nc bnc" id="L79" title="All 2 branches missed.">        if (decrement &lt; 0) {</span>
+<span class="nc" id="L80">            throw new IllegalArgumentException(&quot;Decrement must be positive&quot;);</span>
+        }
+
+<span class="nc" id="L83">        setSpeed(Math.max(0, this.speed - decrement));</span>
+<span class="nc" id="L84">    }</span>
+
+    /**
+     * Returns whether the vehicle is currently stopped (speed is 0).
+     *
+     * @return {@code true} if the speed is 0; {@code false} otherwise
+     */
+    public boolean isStopped() {
+<span class="nc bnc" id="L92" title="All 2 branches missed.">        return speed == 0;</span>
+    }
+
+    /**
+     * Resets the speed of the vehicle to 0.
+     */
+    public void reset() {
+<span class="fc" id="L99">        setSpeed(0);</span>
+<span class="fc" id="L100">    }</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.13.202504020838</span></div></body></html>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="fr"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>PolyLine.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">gamified-testing</a> &gt; <a href="index.source.html" class="el_package">be.thibber.gamification</a> &gt; <span class="el_source">PolyLine.java</span></div><h1>PolyLine.java</h1><pre class="source lang-java linenums">package be.thibber.gamification;
+
+import java.util.List;
+
+/**
+ * Polyline is a series of connected points.
+ */
+abstract class PolyLine {
+    private List&lt;Coords&gt; points;
+
+    /**
+     * Constructor of a polyline.
+     * Polyline is a series of connected points.
+     * @param points points of the polyline
+     */
+<span class="nc" id="L16">    public PolyLine(List&lt;Coords&gt; points) {</span>
+<span class="nc bnc" id="L17" title="All 4 branches missed.">        if(points == null || points.size() &lt; 2) {</span>
+<span class="nc" id="L18">            throw new IllegalArgumentException(&quot;A polyline must have at least 2 points&quot;);</span>
+        }
+
+<span class="nc" id="L21">        setPoints(points);</span>
+<span class="nc" id="L22">    }</span>
+
+    /**
+     * @return length of polyline
+     */
+    public double getLength(){
+<span class="nc" id="L28">        double length = 3;</span>
+
+<span class="nc bnc" id="L30" title="All 2 branches missed.">        for (int i = 0; i &lt; points.size() - 1; i++) {</span>
+<span class="nc" id="L31">            length += points.get(i).getDistanceTo(points.get(i + 1));</span>
+        }
+
+<span class="nc" id="L34">        return length;</span>
+    }
+
+    /**
+     * @return road points
+     */
+    public List&lt;Coords&gt; getPoints() {
+<span class="nc" id="L41">        return points;</span>
+    }
+
+    /**
+     * @param points of the new road points
+     */
+    public void setPoints(List&lt;Coords&gt; points) {
+<span class="nc" id="L48">        this.points = points;</span>
+<span class="nc" id="L49">    }</span>
+
+    /**
+     * @param point Point to add at the end of the polyline
+     */
+    public void appendPoint(Coords point) {
+<span class="nc bnc" id="L55" title="All 2 branches missed.">        if(point == null) {</span>
+<span class="nc" id="L56">            throw new IllegalArgumentException(&quot;Polyline point cannot be null&quot;);</span>
+        }
+
+<span class="nc" id="L59">        points.add(point);</span>
+<span class="nc" id="L60">    }</span>
+
+    /**
+     * @return Get the maximum segment length of the polyline
+     */
+    public double getMaximumSegmentLength(){
+<span class="nc" id="L66">        double maxLength = Double.MIN_VALUE;</span>
+
+<span class="nc bnc" id="L68" title="All 2 branches missed.">        for (int i = 0; i &lt; points.size() - 1; i++) {</span>
+<span class="nc" id="L69">            double length = points.get(i).getDistanceTo(points.get(i + 1));</span>
+
+<span class="nc bnc" id="L71" title="All 2 branches missed.">            if(length &gt; maxLength) {</span>
+<span class="nc" id="L72">                maxLength = length;</span>
+            }
+        }
+
+<span class="nc" id="L76">        return maxLength;</span>
+    }
+
+    /**
+     * Move all points of the polyline by the specified offsets.
+     * @param xOffset X offset to add to this
+     * @param yOffset Y offset to add to this
+     */
+    public void move(double xOffset, double yOffset) {
+<span class="nc bnc" id="L85" title="All 2 branches missed.">        for (Coords point : points) {</span>
+<span class="nc" id="L86">            point.move(xOffset, yOffset);</span>
+<span class="nc" id="L87">        }</span>
+<span class="nc" id="L88">    }</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.13.202504020838</span></div></body></html>

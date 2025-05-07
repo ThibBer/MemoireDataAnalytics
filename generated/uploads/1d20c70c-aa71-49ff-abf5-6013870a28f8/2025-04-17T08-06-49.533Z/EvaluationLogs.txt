@@ -1,0 +1,16 @@
+2025-04-17 09:46:45.869 - Debug - POST 2 files to https://gamification.thibber.be/api/v1/experimentData :- AchievementsReport.csv (1037 bytes)
+- Actions.csv (110 bytes)
+
+2025-04-17 09:46:46.178 - Notification - File successfully sent, thanks for your help ! 😉
+2025-04-17 09:46:48.235 - Debug - POST 3 files to https://gamification.thibber.be/api/v1/experimentData :- AchievementsReport.csv (1037 bytes)
+- Actions.csv (110 bytes)
+- EvaluationLogs.txt (263 bytes)
+
+2025-04-17 09:46:48.332 - Notification - File successfully sent, thanks for your help ! 😉
+2025-04-17 09:46:54.287 - Notification - Game mode selected : leaderboard
+2025-04-17 09:46:56.96 - Notification - Game mode selected : achievements
+2025-04-17 09:47:00.625 - Notification - Game mode selected : leaderboard
+2025-04-17 10:06:48.637 - Debug - POST 3 files to https://gamification.thibber.be/api/v1/experimentData :- AchievementsReport.csv (1037 bytes)
+- Actions.csv (110 bytes)
+- EvaluationLogs.txt (781 bytes)
+

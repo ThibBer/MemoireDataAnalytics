@@ -1,0 +1,153 @@
+2025-04-17 09:04:05.423 - Notification - You have earned 1 points.
+2025-04-17 09:05:23.489 - Notification - You have earned 1 points.
+2025-04-17 09:06:23.437 - Notification - You have earned 1 points.
+2025-04-17 09:06:55.231 - Notification - You have earned 1 points.
+2025-04-17 09:06:56.148 - Notification - You have earned 1 points.
+2025-04-17 09:07:13.827 - Notification - You have earned 1 points.
+2025-04-17 09:09:09.257 - Notification - You have earned 2 points.
+2025-04-17 09:09:09.273 - Notification - You have earned 1 points.
+2025-04-17 09:09:09.797 - Notification - You have earned 1 points.
+2025-04-17 09:09:10.18 - Notification - You have earned 1 points.
+2025-04-17 09:10:35.182 - Notification - You have earned 1 points.
+2025-04-17 09:10:35.195 - Notification - You have earned 1 points.
+2025-04-17 09:10:35.743 - Notification - You have earned 1 points.
+2025-04-17 09:10:36.122 - Notification - You have earned 1 points.
+2025-04-17 09:11:30.711 - Notification - You have earned 2 points.
+2025-04-17 09:11:30.717 - Notification - You have earned 1 points.
+2025-04-17 09:11:31.317 - Notification - You have earned 1 points.
+2025-04-17 09:11:31.679 - Notification - You have earned 1 points.
+2025-04-17 09:12:52.495 - Notification - You have earned 2 points.
+2025-04-17 09:12:52.5 - Notification - You have earned 1 points.
+2025-04-17 09:12:53.014 - Notification - You have earned 1 points.
+2025-04-17 09:12:53.411 - Notification - You have earned 1 points.
+2025-04-17 09:13:32.902 - Notification - You have earned 2 points.
+2025-04-17 09:13:32.92 - Notification - You have earned 1 points.
+2025-04-17 09:13:33.842 - Notification - You have earned 1 points.
+2025-04-17 09:13:53.758 - Notification - You have earned 1 points.
+2025-04-17 09:13:54.154 - Notification - You have earned 1 points.
+2025-04-17 09:14:26.921 - Notification - You have earned 1 points.
+2025-04-17 09:14:26.946 - Notification - You have earned 1 points.
+2025-04-17 09:14:27.461 - Notification - You have earned 1 points.
+2025-04-17 09:14:27.863 - Notification - You have earned 1 points.
+2025-04-17 09:14:55.199 - Notification - You have earned 1 points.
+2025-04-17 09:14:55.215 - Notification - You have earned 1 points.
+2025-04-17 09:14:55.739 - Notification - You have earned 1 points.
+2025-04-17 09:14:56.141 - Notification - You have earned 1 points.
+2025-04-17 09:15:25.136 - Notification - You have earned 1 points.
+2025-04-17 09:15:25.139 - Notification - You have earned 1 points.
+2025-04-17 09:15:25.661 - Notification - You have earned 1 points.
+2025-04-17 09:15:26.048 - Notification - You have earned 1 points.
+2025-04-17 09:16:15.996 - Notification - You have earned 1 points.
+2025-04-17 09:16:16.008 - Notification - You have earned 1 points.
+2025-04-17 09:16:16.972 - Notification - You have earned 1 points.
+2025-04-17 09:16:39.492 - Notification - You have earned 1 points.
+2025-04-17 09:16:45.678 - Notification - You have earned 1 points.
+2025-04-17 09:16:46.074 - Notification - You have earned 1 points.
+2025-04-17 09:17:48.122 - Notification - You have earned 1 points.
+2025-04-17 09:17:48.14 - Notification - You have earned 1 points.
+2025-04-17 09:17:49.053 - Notification - You have earned 1 points.
+2025-04-17 09:17:57.936 - Notification - You have earned 1 points.
+2025-04-17 09:17:58.33 - Notification - You have earned 1 points.
+2025-04-17 09:19:24.186 - Notification - You have earned 2 points.
+2025-04-17 09:19:24.193 - Notification - You have earned 1 points.
+2025-04-17 09:19:24.736 - Notification - You have earned 2 points.
+2025-04-17 09:19:25.123 - Notification - You have earned 1 points.
+2025-04-17 09:20:22.031 - Notification - You have earned 2 points.
+2025-04-17 09:20:22.039 - Notification - You have earned 1 points.
+2025-04-17 09:20:22.575 - Notification - You have earned 1 points.
+2025-04-17 09:20:22.98 - Notification - You have earned 1 points.
+2025-04-17 09:21:45.435 - Notification - You have earned 1 points.
+2025-04-17 09:21:46.002 - Notification - You have earned 1 points.
+2025-04-17 09:21:46.392 - Notification - You have earned 1 points.
+2025-04-17 09:22:09.004 - Notification - You have earned 1 points.
+2025-04-17 09:22:09.015 - Notification - You have earned 1 points.
+2025-04-17 09:22:09.563 - Notification - You have earned 1 points.
+2025-04-17 09:22:09.934 - Notification - You have earned 1 points.
+2025-04-17 09:22:50.685 - Notification - You have earned 1 points.
+2025-04-17 09:22:51.204 - Notification - You have earned 1 points.
+2025-04-17 09:22:51.61 - Notification - You have earned 1 points.
+2025-04-17 09:24:07.354 - Notification - You have earned 1 points.
+2025-04-17 09:24:07.365 - Notification - You have earned 1 points.
+2025-04-17 09:24:07.927 - Notification - You have earned 1 points.
+2025-04-17 09:24:08.31 - Notification - You have earned 1 points.
+2025-04-17 09:24:20.647 - Debug - POST 2 files to https://gamification.thibber.be/api/v1/experimentData :- EvaluationLogs.txt (4815 bytes)
+- Actions.csv (5778 bytes)
+
+2025-04-17 09:24:20.837 - Notification - File successfully sent, thanks for your help ! 😉
+2025-04-17 09:44:21.717 - Notification - Game mode selected : achievements
+2025-04-17 09:44:36.016 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:44:36.039 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:44:36.059 - Notification - Congratulations! You unlocked level 1 of the 'Assert and Tested' achievement!
+2025-04-17 09:44:36.099 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:44:36.397 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'The Tester' achievement!
+2025-04-17 09:44:36.403 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:44:49.667 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:44:49.702 - Notification - Congratulations! You unlocked level 2 of the 'Assert and Tested' achievement!
+2025-04-17 09:44:50.03 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:44:50.037 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:44:50.039 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:44:50.135 - Notification - You are making progress on an achievement! You have already reached 40,00% of the next level of the 'Check your methods' achievement!
+2025-04-17 09:44:50.156 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Check your classes' achievement!
+2025-04-17 09:44:50.187 - Notification - Congratulations! You unlocked level 1 of the 'Check your branches' achievement!
+2025-04-17 09:45:05.563 - Notification - Congratulations! You unlocked level 1 of the 'The Tester' achievement!
+2025-04-17 09:45:05.567 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:45:09.642 - Notification - You are making progress on an achievement! You have already reached 26,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:45:09.646 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:45:09.647 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:45:47.824 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:45:56.526 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:46:59.368 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Double check' achievement!
+2025-04-17 09:46:59.924 - Notification - You are making progress on an achievement! You have already reached 25,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:47:00.314 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:47:05.9 - Notification - You are making progress on an achievement! You have already reached 53,33% of the next level of the 'The Tester' achievement!
+2025-04-17 09:47:05.925 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:47:05.925 - Notification - Congratulations! You unlocked level 1 of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:47:14.354 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Check your methods' achievement!
+2025-04-17 09:47:14.376 - Notification - Congratulations! You unlocked level 1 of the 'Check your classes' achievement!
+2025-04-17 09:48:21.596 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Double check' achievement!
+2025-04-17 09:48:22.56 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:48:28.543 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:48:28.628 - Notification - Congratulations! You unlocked level 1 of the 'Check your methods' achievement!
+2025-04-17 09:48:57.468 - Notification - Congratulations! You unlocked level 1 of the 'Double check' achievement!
+2025-04-17 09:48:57.472 - Notification - You are making progress on an achievement! You have already reached 30,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:48:58.431 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:49:00.927 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'The Tester' achievement!
+2025-04-17 09:49:00.935 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:49:00.936 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:49:01.02 - Notification - You are making progress on an achievement! You have already reached 27,00% of the next level of the 'Line-by-line' achievement!
+2025-04-17 09:49:01.031 - Notification - You are making progress on an achievement! You have already reached 30,00% of the next level of the 'Check your methods' achievement!
+2025-04-17 09:49:01.066 - Notification - You are making progress on an achievement! You have already reached 32,00% of the next level of the 'Check your branches' achievement!
+2025-04-17 09:49:33.879 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:49:40.899 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:48.384 - Notification - You are making progress on an achievement! You have already reached 60,00% of the next level of the 'Double check' achievement!
+2025-04-17 09:50:48.388 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:50:49.363 - Notification - Congratulations! You unlocked level 2 of the 'The Tester' achievement!
+2025-04-17 09:50:49.372 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:50:52.66 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:51:11.481 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:51:11.832 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:51:56.262 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:51:58.776 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:51:58.776 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:51:58.848 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Check your methods' achievement!
+2025-04-17 09:51:58.871 - Notification - You are making progress on an achievement! You have already reached 28,00% of the next level of the 'Check your classes' achievement!
+2025-04-17 09:52:49.122 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:52:51.026 - Notification - You are making progress on an achievement! You have already reached 75,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:52:51.403 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:52:51.469 - Notification - You are making progress on an achievement! You have already reached 58,00% of the next level of the 'Line-by-line' achievement!
+2025-04-17 09:53:23.405 - Notification - You are making progress on an achievement! You have already reached 76,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:53:23.411 - Notification - Congratulations! You unlocked level 2 of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:55:04.309 - Notification - Congratulations! You unlocked level 2 of the 'Double check' achievement!
+2025-04-17 09:55:04.313 - Notification - You are making progress on an achievement! You have already reached 90,00% of the next level of the 'Safety First' achievement!
+2025-04-17 10:00:49.119 - Notification - Congratulations! You unlocked level 1 of the 'Safety First' achievement!
+2025-04-17 10:00:52.695 - Notification - You are making progress on an achievement! You have already reached 76,00% of the next level of the 'Check your methods' achievement!
+2025-04-17 10:02:26.094 - Notification - Congratulations! You unlocked level 3 of the 'The Tester' achievement!
+2025-04-17 10:03:58.728 - Notification - You are making progress on an achievement! You have already reached 78,00% of the next level of the 'Line-by-line' achievement!
+2025-04-17 10:04:45.454 - Notification - Congratulations! You unlocked level 2 of the 'Check your methods' achievement!
+2025-04-17 10:04:45.465 - Notification - You are making progress on an achievement! You have already reached 52,00% of the next level of the 'Check your classes' achievement!
+2025-04-17 10:05:12.288 - Notification - You are making progress on an achievement! You have already reached 75,00% of the next level of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 10:05:18.791 - Debug - POST 4 files to https://gamification.thibber.be/api/v1/experimentData :- Coverage.csv (1137 bytes)
+- EvaluationLogs.txt (15493 bytes)
+- AchievementsReport.csv (23995 bytes)
+- Actions.csv (24379 bytes)
+

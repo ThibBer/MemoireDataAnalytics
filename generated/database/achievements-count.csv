@@ -1,0 +1,14 @@
+achievement,count
+TriggerXAssertsByTestsAchievement,10594
+RunXTestSuitesAchievement,908
+RefactorAddXAssertionsAchievement,431
+AddTestsAchievement,368
+CoverXClassesAchievement,141
+CoverXLinesAchievement,141
+CoverXMethodsAchievement,141
+RunWithCoverageAchievement,137
+RefactorCodeAchievement,117
+CoverXBranchesAchievement,69
+RefactorXTestNamesAchievement,52
+RefactorInlineXMethodsAchievement,2
+RefactorExtractXMethodsAchievement,2

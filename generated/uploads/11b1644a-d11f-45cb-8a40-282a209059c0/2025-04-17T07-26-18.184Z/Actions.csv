@@ -1,0 +1,251 @@
+Action,Name,Points,GameMode,Timestamp
+RefactorAddXAssertionsAchievement,Double check,1,LEADERBOARD,2025-04-17 09:03:37.536
+AddTestsAchievement,Safety First,1,LEADERBOARD,2025-04-17 09:03:37.537
+RefactorAddXAssertionsAchievement,Double check,1,LEADERBOARD,2025-04-17 09:03:58.193
+AddTestsAchievement,Safety First,1,LEADERBOARD,2025-04-17 09:03:58.193
+RefactorAddXAssertionsAchievement,Double check,4,ACHIEVEMENTS,2025-04-17 09:05:22.906
+AddTestsAchievement,Safety First,4,ACHIEVEMENTS,2025-04-17 09:05:22.916
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:05:25.652
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:05:25.668
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:05:25.706
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:05:25.758
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:05:25.773
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:05:25.787
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:05:25.974
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:05:48.632
+RefactorAddXAssertionsAchievement,Double check,4,ACHIEVEMENTS,2025-04-17 09:07:21.376
+AddTestsAchievement,Safety First,2,ACHIEVEMENTS,2025-04-17 09:07:21.384
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:07:23.193
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:07:50.06
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:07:50.07
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:07:50.444
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:08:02.874
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:08:02.881
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:08:02.906
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:08:03.25
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:08:30.181
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:08:43.754
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:08:44.997
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:08:52.867
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:08:53.249
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:09:08.107
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:09:08.119
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:09:09.345
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:09:16.69
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:09:24.319
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:09:31.314
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:09:31.691
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:10:17.087
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:10:17.087
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:10:18.468
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:10:30.862
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:10:32.092
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:10:37.384
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:10:37.753
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:11:18.963
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:11:18.964
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:11:20.195
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:11:26.799
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:11:27.184
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:11:30.003
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:11:30.014
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:11:30.024
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:11:30.033
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:11:30.041
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:11:30.054
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:11:30.064
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:11:30.383
+RunWithCoverageAchievement,Gotta Catch ’Em All,1,ACHIEVEMENTS,2025-04-17 09:11:30.385
+CoverXLinesAchievement,Line-by-line,14,ACHIEVEMENTS,2025-04-17 09:11:30.48
+CoverXMethodsAchievement,Check your methods,8,ACHIEVEMENTS,2025-04-17 09:11:30.486
+CoverXClassesAchievement,Check your classes,1,ACHIEVEMENTS,2025-04-17 09:11:30.497
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:12:13.906
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:12:13.907
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:12:14.716
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:12:15.089
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:12:26.543
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:12:26.544
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:12:27.371
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:12:27.745
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:12:42.644
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:12:42.645
+RefactorAddXAssertionsAchievement,Double check,2,ACHIEVEMENTS,2025-04-17 09:13:59.194
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:14:28.001
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:14:28.384
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:14:59.747
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:14:59.748
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:15:03.347
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:15:03.356
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:15:03.362
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:15:03.37
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:15:03.727
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:15:42.476
+AddTestsAchievement,Safety First,2,ACHIEVEMENTS,2025-04-17 09:15:42.477
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:16:04.486
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:16:05.35
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:16:05.738
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:16:14.576
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:16:14.577
+RefactorAddXAssertionsAchievement,Double check,2,ACHIEVEMENTS,2025-04-17 09:16:32.189
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:16:49.92
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:16:50.289
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:17:28.061
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:17:28.071
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:17:28.93
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:17:29.309
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:17:45.371
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:17:45.379
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:17:45.387
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:17:45.392
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:17:45.397
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:17:45.404
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:17:45.412
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:17:45.42
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:17:45.43
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:17:45.438
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:17:45.471
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:17:45.485
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:17:45.494
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:17:45.505
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:17:45.513
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:17:45.523
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:17:45.534
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:17:45.547
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:17:45.555
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:17:45.562
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:17:45.758
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:03.737
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:03.747
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:03.759
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:03.766
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:03.784
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:18:03.79
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:18:03.796
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:03.808
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:03.813
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:03.824
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:03.835
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:03.847
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:03.878
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:03.902
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:03.922
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:03.928
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:03.936
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:18:03.943
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:03.951
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:03.959
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:18:03.966
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:18:04.12
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:10.549
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:10.559
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:10.568
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:10.578
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:10.583
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:18:10.59
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:18:10.598
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:10.61
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:10.616
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:10.623
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:10.629
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:10.655
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:10.666
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:10.674
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:10.68
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:10.688
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:10.696
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:18:10.702
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:10.708
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:18:10.716
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:18:10.726
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:18:10.946
+RunWithCoverageAchievement,Gotta Catch ’Em All,1,ACHIEVEMENTS,2025-04-17 09:18:10.948
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:18:46.144
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:18:46.145
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:19:35.31
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:19:35.311
+RefactorXTestNamesAchievement,The Eponym,1,ACHIEVEMENTS,2025-04-17 09:19:35.322
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:19:36.238
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:19:36.62
+RefactorAddXAssertionsAchievement,Double check,2,ACHIEVEMENTS,2025-04-17 09:20:04.995
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:20:04.996
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:20:05.944
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:20:06.314
+RefactorAddXAssertionsAchievement,Double check,4,ACHIEVEMENTS,2025-04-17 09:20:19.846
+AddTestsAchievement,Safety First,3,ACHIEVEMENTS,2025-04-17 09:20:19.847
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:21:10.109
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:21:21.143
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:21:26.879
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:21:27.26
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:21:30.138
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:21:35.014
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:21:40.173
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:22:12.461
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:22:12.84
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:14.596
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:22:14.979
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.589
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.599
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.607
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.616
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.627
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:22:21.638
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:22:21.647
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.654
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.66
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.667
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.673
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.679
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.685
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.695
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.702
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.711
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.722
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.731
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.737
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:22:21.743
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.751
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.756
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:22:21.762
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.77
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:22:21.776
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:22:21.782
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:22:21.788
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:22:21.999
+RunWithCoverageAchievement,Gotta Catch ’Em All,1,ACHIEVEMENTS,2025-04-17 09:22:22.001
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:23:00.692
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:23:36.099
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:23:37.376
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:24:24.003
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:25:03.899
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:25:30.31
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:25:59.244
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:00.077
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:26:00.454
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.612
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.621
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.627
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.638
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.645
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:26:04.651
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:26:04.659
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.665
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.67
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.678
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.687
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.694
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.704
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.711
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.721
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.727
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.735
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.742
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.747
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.754
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:26:04.76
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.768
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.776
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:26:04.783
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.788
+TriggerXAssertsByTestsAchievement,Assert and Tested,1,ACHIEVEMENTS,2025-04-17 09:26:04.793
+TriggerXAssertsByTestsAchievement,Assert and Tested,2,ACHIEVEMENTS,2025-04-17 09:26:04.799
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:26:04.98

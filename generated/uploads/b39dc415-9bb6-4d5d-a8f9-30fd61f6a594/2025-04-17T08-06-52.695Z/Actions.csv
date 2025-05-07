@@ -1,0 +1,36 @@
+Action,Name,Points,GameMode,Timestamp
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:10:29.103
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:10:29.162
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:14:51.278
+AddTestsAchievement,Safety First,1,ACHIEVEMENTS,2025-04-17 09:16:55.777
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:19:14.383
+RefactorAddXAssertionsAchievement,Double check,1,ACHIEVEMENTS,2025-04-17 09:19:52.306
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:20:47.481
+RunXTestSuitesAchievement,The Tester,1,ACHIEVEMENTS,2025-04-17 09:21:04.205
+RunWithCoverageAchievement,Gotta Catch ’Em All,1,ACHIEVEMENTS,2025-04-17 09:21:04.223
+CoverXLinesAchievement,Line-by-line,7,ACHIEVEMENTS,2025-04-17 09:21:04.461
+CoverXMethodsAchievement,Check your methods,5,ACHIEVEMENTS,2025-04-17 09:21:04.493
+CoverXClassesAchievement,Check your classes,1,ACHIEVEMENTS,2025-04-17 09:21:04.557
+RunXTestSuitesAchievement,The Tester,1,LEADERBOARD,2025-04-17 09:46:43.942
+RefactorAddXAssertionsAchievement,Double check,8,LEADERBOARD,2025-04-17 09:47:51.383
+RefactorCodeAchievement,Shine in new splendour,1,LEADERBOARD,2025-04-17 09:47:51.402
+AddTestsAchievement,Safety First,1,LEADERBOARD,2025-04-17 09:49:13.746
+RefactorCodeAchievement,Shine in new splendour,1,LEADERBOARD,2025-04-17 09:49:13.757
+RefactorCodeAchievement,Shine in new splendour,1,LEADERBOARD,2025-04-17 09:49:13.758
+RefactorAddXAssertionsAchievement,Double check,2,LEADERBOARD,2025-04-17 09:51:11.788
+RefactorAddXAssertionsAchievement,Double check,2,LEADERBOARD,2025-04-17 09:55:25.472
+AddTestsAchievement,Safety First,1,LEADERBOARD,2025-04-17 09:55:25.474
+AddTestsAchievement,Safety First,1,LEADERBOARD,2025-04-17 09:57:48.198
+RefactorAddXAssertionsAchievement,Double check,1,LEADERBOARD,2025-04-17 09:58:47.352
+RunXTestSuitesAchievement,The Tester,1,LEADERBOARD,2025-04-17 09:58:52.346
+RunXTestSuitesAchievement,The Tester,1,LEADERBOARD,2025-04-17 09:59:00.547
+RunWithCoverageAchievement,Gotta Catch ’Em All,1,LEADERBOARD,2025-04-17 09:59:00.549
+RefactorAddXAssertionsAchievement,Double check,2,LEADERBOARD,2025-04-17 09:59:36.505
+RunXTestSuitesAchievement,The Tester,1,LEADERBOARD,2025-04-17 10:00:09.918
+AddTestsAchievement,Safety First,1,LEADERBOARD,2025-04-17 10:04:44.825
+RunXTestSuitesAchievement,The Tester,1,LEADERBOARD,2025-04-17 10:04:47.402
+RunXTestSuitesAchievement,The Tester,1,LEADERBOARD,2025-04-17 10:04:50.96
+RunWithCoverageAchievement,Gotta Catch ’Em All,1,LEADERBOARD,2025-04-17 10:04:50.962
+RunXTestSuitesAchievement,The Tester,1,LEADERBOARD,2025-04-17 10:06:38.658
+RunXTestSuitesAchievement,The Tester,1,LEADERBOARD,2025-04-17 10:06:40.824
+RunWithCoverageAchievement,Gotta Catch ’Em All,1,LEADERBOARD,2025-04-17 10:06:40.827

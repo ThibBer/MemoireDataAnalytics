@@ -1,0 +1,59 @@
+2025-04-17 09:03:37.574 - Notification - You have earned 1 points.
+2025-04-17 09:03:37.608 - Notification - You have earned 1 points.
+2025-04-17 09:03:58.238 - Notification - You have earned 1 points.
+2025-04-17 09:03:58.294 - Notification - You have earned 1 points.
+2025-04-17 09:04:51.518 - Notification - Game mode selected : achievements
+2025-04-17 09:05:22.915 - Notification - Congratulations! You unlocked level 1 of the 'Double check' achievement!
+2025-04-17 09:05:22.922 - Notification - You are making progress on an achievement! You have already reached 40,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:05:25.659 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:05:25.677 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:05:25.714 - Notification - Congratulations! You unlocked level 1 of the 'Assert and Tested' achievement!
+2025-04-17 09:05:25.781 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:05:25.975 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'The Tester' achievement!
+2025-04-17 09:05:25.981 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:05:48.643 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:07:21.383 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Double check' achievement!
+2025-04-17 09:07:23.193 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:07:23.199 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:07:50.076 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:07:50.445 - Notification - Congratulations! You unlocked level 1 of the 'The Tester' achievement!
+2025-04-17 09:07:50.451 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:08:02.887 - Notification - Congratulations! You unlocked level 2 of the 'Assert and Tested' achievement!
+2025-04-17 09:08:03.25 - Notification - You are making progress on an achievement! You have already reached 26,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:08:03.257 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:08:30.191 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:08:44.997 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:08:53.25 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:09:08.112 - Notification - Congratulations! You unlocked level 2 of the 'Double check' achievement!
+2025-04-17 09:09:09.349 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:09:16.691 - Notification - You are making progress on an achievement! You have already reached 53,33% of the next level of the 'The Tester' achievement!
+2025-04-17 09:09:16.696 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:09:24.32 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:09:31.691 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:10:17.091 - Notification - Congratulations! You unlocked level 1 of the 'Safety First' achievement!
+2025-04-17 09:10:18.469 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:10:32.092 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'The Tester' achievement!
+2025-04-17 09:10:32.099 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:10:37.754 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:11:20.196 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:11:27.184 - Notification - Congratulations! You unlocked level 2 of the 'The Tester' achievement!
+2025-04-17 09:11:27.191 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:11:30.071 - Notification - You are making progress on an achievement! You have already reached 26,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:11:30.383 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:11:30.386 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:11:30.486 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Check your methods' achievement!
+2025-04-17 09:11:30.498 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Check your classes' achievement!
+2025-04-17 09:17:28.07 - Notification - You are making progress on an achievement! You have already reached 25,00% of the next level of the 'Double check' achievement!
+2025-04-17 09:17:29.309 - Notification - You are making progress on an achievement! You have already reached 76,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:17:45.443 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:18:03.842 - Notification - You are making progress on an achievement! You have already reached 75,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:18:10.633 - Notification - Congratulations! You unlocked level 3 of the 'Assert and Tested' achievement!
+2025-04-17 09:18:10.948 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:20:19.854 - Notification - You are making progress on an achievement! You have already reached 25,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:21:21.143 - Notification - Congratulations! You unlocked level 3 of the 'The Tester' achievement!
+2025-04-17 09:22:22.001 - Notification - Congratulations! You unlocked level 1 of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:26:18.102 - Debug - POST 4 files to https://gamification.thibber.be/api/v1/experimentData :- Coverage.csv (219 bytes)
+- EvaluationLogs.txt (7341 bytes)
+- AchievementsReport.csv (26680 bytes)
+- Actions.csv (21538 bytes)
+

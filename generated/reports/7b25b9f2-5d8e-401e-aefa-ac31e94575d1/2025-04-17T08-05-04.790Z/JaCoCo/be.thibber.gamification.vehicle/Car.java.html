@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="fr"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>Car.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">gamified-testing</a> &gt; <a href="index.source.html" class="el_package">be.thibber.gamification.vehicle</a> &gt; <span class="el_source">Car.java</span></div><h1>Car.java</h1><pre class="source lang-java linenums">package be.thibber.gamification.vehicle;
+
+import be.thibber.gamification.Person;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Car extends Vehicle {
+    private int seatsCount;
+    private List&lt;Person&gt; passengers;
+
+    /**
+     * Constructs a new {@code Vehicle} with the specified initial speed, seats count &amp; passengers.
+     *
+     * @param speed the initial speed of the vehicle; must be greater than or equal to 0
+     * @param seatsCount the initial seats count for the vehicle
+     * @throws IllegalArgumentException if {@code speed} is negative
+     */
+    public Car(double speed, int seatsCount, List&lt;Person&gt; passengers) {
+<span class="fc" id="L20">        super(speed);</span>
+<span class="fc" id="L21">        setPassengers(passengers);</span>
+<span class="fc" id="L22">        setSeatsCount(seatsCount);</span>
+<span class="fc" id="L23">    }</span>
+
+    /**
+     * Constructs a new {@code Vehicle} with the specified seats count.
+     *
+     * @param seatsCount the initial seats count for the vehicle
+     * @throws IllegalArgumentException if {@code speed} is negative
+     */
+    public Car(int seatsCount) {
+<span class="fc" id="L32">        this(0, seatsCount);</span>
+<span class="fc" id="L33">    }</span>
+
+    /**
+     * Constructs a new {@code Vehicle} with the specified speed and seats count.
+     *
+     * @param seatsCount the initial seats count for the vehicle
+     * @throws IllegalArgumentException if {@code speed} is negative
+     */
+    public Car(double speed, int seatsCount) {
+<span class="fc" id="L42">        this(speed, seatsCount, new ArrayList&lt;&gt;());</span>
+<span class="fc" id="L43">    }</span>
+
+    /**
+     * @param person Person to add in the vehicle
+     */
+    public void addPassenger(Person person) {
+<span class="pc bpc" id="L49" title="1 of 2 branches missed.">        if (person == null) {</span>
+<span class="nc" id="L50">            throw new IllegalArgumentException(&quot;Person cannot be null&quot;);</span>
+        }
+
+<span class="pc bpc" id="L53" title="1 of 2 branches missed.">        if(passengers.size() &lt; seatsCount) {</span>
+<span class="fc" id="L54">            throw new IllegalStateException(&quot;No more seats available&quot;);</span>
+        }
+
+<span class="nc" id="L57">        passengers.add(person);</span>
+<span class="nc" id="L58">    }</span>
+
+    /**
+     * @param person Person to remove from the vehicle
+     */
+    public void removePassenger(Person person) {
+<span class="nc bnc" id="L64" title="All 2 branches missed.">        if (person == null) {</span>
+<span class="nc" id="L65">            throw new IllegalArgumentException(&quot;Person cannot be null&quot;);</span>
+        }
+
+<span class="nc" id="L68">        passengers.add(person);</span>
+<span class="nc" id="L69">    }</span>
+
+    /**
+     * @return List of car passenger
+     */
+    public List&lt;Person&gt; getPassengers() {
+<span class="fc" id="L75">        return passengers;</span>
+    }
+
+    /**
+     * @param passengers vehicle passengers
+     */
+    public void setPassengers(List&lt;Person&gt; passengers) {
+<span class="fc" id="L82">        this.passengers = passengers;</span>
+<span class="fc" id="L83">    }</span>
+
+
+    /**
+     * Sets the speed of the vehicle.
+     *
+     * @param speed the new speed; must be greater than or equal to 0
+     * @throws IllegalArgumentException if {@code speed} is negative
+     * @throws IllegalStateException if {@code passengers} is empty
+     */
+    @Override
+    public void setSpeed(double speed) {
+<span class="pc bpc" id="L95" title="3 of 4 branches missed.">        if(passengers != null &amp;&amp; passengers.isEmpty()) {</span>
+<span class="nc" id="L96">            throw new IllegalStateException(&quot;No passengers in the vehicle&quot;);</span>
+        }
+
+<span class="fc" id="L99">        super.setSpeed(speed);</span>
+<span class="fc" id="L100">    }</span>
+
+    /**
+     * Resets the speed of the vehicle to 0.
+     */
+    @Override
+    public void reset() {
+<span class="nc" id="L107">        super.reset();</span>
+<span class="nc" id="L108">        passengers.clear();</span>
+<span class="nc" id="L109">    }</span>
+
+    /**
+     * @return Seats count
+     */
+    public int getSeatsCount() {
+<span class="fc" id="L115">        return seatsCount;</span>
+    }
+
+    /**
+     * @param seatsCount Seats count
+     */
+    public void setSeatsCount(int seatsCount) {
+<span class="fc" id="L122">        this.seatsCount = seatsCount;</span>
+<span class="fc" id="L123">    }</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.13.202504020838</span></div></body></html>

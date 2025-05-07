@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="fr"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>City.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">gamified-testing</a> &gt; <a href="index.source.html" class="el_package">be.thibber.gamification</a> &gt; <span class="el_source">City.java</span></div><h1>City.java</h1><pre class="source lang-java linenums">package be.thibber.gamification;
+
+import be.thibber.gamification.building.Building;
+import be.thibber.gamification.building.Parking;
+
+import java.util.List;
+
+public class City {
+    private final List&lt;Building&gt; buildings;
+    private final List&lt;Road&gt; roads;
+
+<span class="fc" id="L12">    public City(List&lt;Building&gt; buildings, List&lt;Road&gt; roads) {</span>
+<span class="fc" id="L13">        this.buildings = buildings;</span>
+<span class="fc" id="L14">        this.roads = roads;</span>
+<span class="fc" id="L15">    }</span>
+
+    /**
+     * @param road Road to add
+     */
+    public void addRoad(Road road) {
+<span class="nc" id="L21">        roads.add(road);</span>
+<span class="nc" id="L22">    }</span>
+
+    /**
+     * @param road Road to remove
+     * @return {@code true} if the road is removed, {@code false} otherwise
+     */
+    public boolean removeRoad(Road road) {
+<span class="nc" id="L29">        return roads.remove(road);</span>
+    }
+
+    /**
+     * @param building Add building to the city
+     */
+    public void addBuilding(Building building) {
+<span class="fc" id="L36">        buildings.add(building);</span>
+<span class="fc" id="L37">    }</span>
+
+    /**
+     * @param building Building to remove
+     * @return {@code true} if the building is removed, {@code false} otherwise
+     */
+    public boolean removeBuilding(Building building) {
+<span class="fc" id="L44">        return buildings.remove(building);</span>
+    }
+
+    /**
+     * @return Sum all building surfaces of the city
+     */
+    public double getBuildingsGroundSurface(){
+<span class="nc" id="L51">        double totalSurface = 0;</span>
+
+<span class="nc bnc" id="L53" title="All 2 branches missed.">        for (Building building : buildings) {</span>
+<span class="nc" id="L54">            totalSurface += building.getGroundSurface();</span>
+<span class="nc" id="L55">        }</span>
+
+<span class="nc" id="L57">        return totalSurface;</span>
+    }
+
+    /**
+     * Count building from the city by type
+     * Usage : {@code city.countBuildingByType(Parking.class)} or {@code city.countBuildingByType(Building.class)}
+     * @param type the type of building to count
+     * @param &lt;T&gt; Type or subtype of {@code Building}
+     * @return the count of buildings of the specified type
+     */
+    public &lt;T extends Building&gt; int countBuildingByType(Class&lt;T&gt; type) {
+<span class="fc" id="L68">        int count = 0;</span>
+
+<span class="fc bfc" id="L70" title="All 2 branches covered.">        for (Building building : buildings) {</span>
+<span class="pc bpc" id="L71" title="1 of 2 branches missed.">            if(type.isInstance(building)) {</span>
+<span class="fc" id="L72">                count++;</span>
+            }
+<span class="fc" id="L74">        }</span>
+
+<span class="fc" id="L76">        return count;</span>
+    }
+
+    /**
+     * @return Count available parking slots in the whole city
+     */
+    public int getAvailableParkingSlotsCount(){
+<span class="nc" id="L83">        int count = 0;</span>
+
+<span class="nc bnc" id="L85" title="All 2 branches missed.">        for (Building building : buildings) {</span>
+<span class="nc bnc" id="L86" title="All 2 branches missed.">            if(building instanceof Parking) {</span>
+<span class="nc" id="L87">                count -= ((Parking) building).getCapacity();</span>
+            }
+<span class="nc" id="L89">        }</span>
+
+<span class="nc" id="L91">        return count;</span>
+    }
+
+    /**
+     * @return Count percentage or parkings usage in the whole city
+     */
+    public double getParkingsUsagePercentage(){
+<span class="nc" id="L98">        double totalCapacity = 0;</span>
+<span class="nc" id="L99">        double totalUsed = 0;</span>
+
+<span class="nc bnc" id="L101" title="All 2 branches missed.">        for (Building building : buildings) {</span>
+<span class="nc bnc" id="L102" title="All 2 branches missed.">            if(building instanceof Parking p) {</span>
+<span class="nc" id="L103">                totalCapacity += p.getCapacity();</span>
+<span class="nc" id="L104">                totalUsed += p.getCapacity() - p.getAvailableSpots();</span>
+            }
+<span class="nc" id="L106">        }</span>
+
+<span class="nc" id="L108">        return (totalUsed / totalCapacity) * 100;</span>
+    }
+
+    public double getAverageRoadLength(){
+<span class="nc" id="L112">        double avg = 0;</span>
+
+<span class="nc bnc" id="L114" title="All 2 branches missed.">        for (Road road : roads) {</span>
+<span class="nc" id="L115">            avg += road.getLength();</span>
+<span class="nc" id="L116">        }</span>
+
+<span class="nc" id="L118">        return avg / roads.size();</span>
+    }
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.13.202504020838</span></div></body></html>

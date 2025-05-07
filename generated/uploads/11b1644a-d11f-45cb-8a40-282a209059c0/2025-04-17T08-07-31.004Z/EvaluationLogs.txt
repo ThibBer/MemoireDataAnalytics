@@ -1,0 +1,581 @@
+2025-04-17 09:03:37.574 - Notification - You have earned 1 points.
+2025-04-17 09:03:37.608 - Notification - You have earned 1 points.
+2025-04-17 09:03:58.238 - Notification - You have earned 1 points.
+2025-04-17 09:03:58.294 - Notification - You have earned 1 points.
+2025-04-17 09:04:51.518 - Notification - Game mode selected : achievements
+2025-04-17 09:05:22.915 - Notification - Congratulations! You unlocked level 1 of the 'Double check' achievement!
+2025-04-17 09:05:22.922 - Notification - You are making progress on an achievement! You have already reached 40,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:05:25.659 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:05:25.677 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:05:25.714 - Notification - Congratulations! You unlocked level 1 of the 'Assert and Tested' achievement!
+2025-04-17 09:05:25.781 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:05:25.975 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'The Tester' achievement!
+2025-04-17 09:05:25.981 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:05:48.643 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:07:21.383 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Double check' achievement!
+2025-04-17 09:07:23.193 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:07:23.199 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:07:50.076 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:07:50.445 - Notification - Congratulations! You unlocked level 1 of the 'The Tester' achievement!
+2025-04-17 09:07:50.451 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:08:02.887 - Notification - Congratulations! You unlocked level 2 of the 'Assert and Tested' achievement!
+2025-04-17 09:08:03.25 - Notification - You are making progress on an achievement! You have already reached 26,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:08:03.257 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:08:30.191 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:08:44.997 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:08:53.25 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:09:08.112 - Notification - Congratulations! You unlocked level 2 of the 'Double check' achievement!
+2025-04-17 09:09:09.349 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:09:16.691 - Notification - You are making progress on an achievement! You have already reached 53,33% of the next level of the 'The Tester' achievement!
+2025-04-17 09:09:16.696 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:09:24.32 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:09:31.691 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:10:17.091 - Notification - Congratulations! You unlocked level 1 of the 'Safety First' achievement!
+2025-04-17 09:10:18.469 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:10:32.092 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'The Tester' achievement!
+2025-04-17 09:10:32.099 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:10:37.754 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:11:20.196 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:11:27.184 - Notification - Congratulations! You unlocked level 2 of the 'The Tester' achievement!
+2025-04-17 09:11:27.191 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:11:30.071 - Notification - You are making progress on an achievement! You have already reached 26,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:11:30.383 - Notification - You might want to run your tests with coverage to see if you missed anything!
+2025-04-17 09:11:30.386 - Notification - You are making progress on an achievement! You have already reached 33,33% of the next level of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:11:30.486 - Notification - You are making progress on an achievement! You have already reached 80,00% of the next level of the 'Check your methods' achievement!
+2025-04-17 09:11:30.498 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Check your classes' achievement!
+2025-04-17 09:17:28.07 - Notification - You are making progress on an achievement! You have already reached 25,00% of the next level of the 'Double check' achievement!
+2025-04-17 09:17:29.309 - Notification - You are making progress on an achievement! You have already reached 76,67% of the next level of the 'The Tester' achievement!
+2025-04-17 09:17:45.443 - Notification - You are making progress on an achievement! You have already reached 50,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:18:03.842 - Notification - You are making progress on an achievement! You have already reached 75,00% of the next level of the 'Assert and Tested' achievement!
+2025-04-17 09:18:10.633 - Notification - Congratulations! You unlocked level 3 of the 'Assert and Tested' achievement!
+2025-04-17 09:18:10.948 - Notification - You are making progress on an achievement! You have already reached 66,67% of the next level of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:20:19.854 - Notification - You are making progress on an achievement! You have already reached 25,00% of the next level of the 'Safety First' achievement!
+2025-04-17 09:21:21.143 - Notification - Congratulations! You unlocked level 3 of the 'The Tester' achievement!
+2025-04-17 09:22:22.001 - Notification - Congratulations! You unlocked level 1 of the 'Gotta Catch ’Em All' achievement!
+2025-04-17 09:26:18.102 - Debug - POST 4 files to https://gamification.thibber.be/api/v1/experimentData :- Coverage.csv (219 bytes)
+- EvaluationLogs.txt (7341 bytes)
+- AchievementsReport.csv (26680 bytes)
+- Actions.csv (21538 bytes)
+
+2025-04-17 09:26:18.262 - Notification - File successfully sent, thanks for your help ! 😉
+2025-04-17 09:46:12.659 - Notification - Game mode selected : leaderboard
+2025-04-17 09:46:25.729 - Notification - You have earned 1 points.
+2025-04-17 09:46:25.76 - Notification - You have earned 1 points.
+2025-04-17 09:46:25.782 - Notification - You have earned 1 points.
+2025-04-17 09:46:25.792 - Notification - You have earned 1 points.
+2025-04-17 09:46:25.83 - Notification - You have earned 1 points.
+2025-04-17 09:46:25.861 - Notification - You have earned 1 points.
+2025-04-17 09:46:25.887 - Notification - You have earned 1 points.
+2025-04-17 09:46:25.91 - Notification - You have earned 2 points.
+2025-04-17 09:46:25.935 - Notification - You have earned 1 points.
+2025-04-17 09:46:25.958 - Notification - You have earned 1 points.
+2025-04-17 09:46:25.983 - Notification - You have earned 1 points.
+2025-04-17 09:46:25.993 - Notification - You have earned 2 points.
+2025-04-17 09:46:26.021 - Notification - You have earned 1 points.
+2025-04-17 09:46:26.043 - Notification - You have earned 1 points.
+2025-04-17 09:46:26.064 - Notification - You have earned 1 points.
+2025-04-17 09:46:26.088 - Notification - You have earned 1 points.
+2025-04-17 09:46:26.109 - Notification - You have earned 1 points.
+2025-04-17 09:46:26.131 - Notification - You have earned 1 points.
+2025-04-17 09:46:26.14 - Notification - You have earned 1 points.
+2025-04-17 09:46:26.161 - Notification - You have earned 2 points.
+2025-04-17 09:46:26.183 - Notification - You have earned 1 points.
+2025-04-17 09:46:26.205 - Notification - You have earned 1 points.
+2025-04-17 09:46:26.213 - Notification - You have earned 2 points.
+2025-04-17 09:46:26.232 - Notification - You have earned 1 points.
+2025-04-17 09:46:26.251 - Notification - You have earned 1 points.
+2025-04-17 09:46:26.272 - Notification - You have earned 2 points.
+2025-04-17 09:46:26.293 - Notification - You have earned 1 points.
+2025-04-17 09:46:39.115 - Notification - You have earned 1 points.
+2025-04-17 09:46:39.498 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.349 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.368 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.381 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.408 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.436 - Notification - You have earned 2 points.
+2025-04-17 09:46:45.467 - Notification - You have earned 2 points.
+2025-04-17 09:46:45.493 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.519 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.543 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.568 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.593 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.616 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.64 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.666 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.692 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.717 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.739 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.759 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.779 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.8 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.82 - Notification - You have earned 2 points.
+2025-04-17 09:46:45.84 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.86 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.886 - Notification - You have earned 2 points.
+2025-04-17 09:46:45.906 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.927 - Notification - You have earned 1 points.
+2025-04-17 09:46:45.948 - Notification - You have earned 2 points.
+2025-04-17 09:46:45.955 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.165 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.177 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.192 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.214 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.241 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.27 - Notification - You have earned 2 points.
+2025-04-17 09:47:14.296 - Notification - You have earned 2 points.
+2025-04-17 09:47:14.32 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.344 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.366 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.389 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.412 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.436 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.474 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.509 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.537 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.566 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.591 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.616 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.645 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.67 - Notification - You have earned 2 points.
+2025-04-17 09:47:14.692 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.714 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.767 - Notification - You have earned 2 points.
+2025-04-17 09:47:14.79 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.812 - Notification - You have earned 1 points.
+2025-04-17 09:47:14.837 - Notification - You have earned 2 points.
+2025-04-17 09:47:14.858 - Notification - You have earned 2 points.
+2025-04-17 09:47:14.88 - Notification - You have earned 1 points.
+2025-04-17 09:47:36.508 - Notification - You have earned 1 points.
+2025-04-17 09:48:16.737 - Notification - You have earned 1 points.
+2025-04-17 09:48:43.012 - Notification - You have earned 1 points.
+2025-04-17 09:48:43.862 - Notification - You have earned 1 points.
+2025-04-17 09:48:44.252 - Notification - You have earned 1 points.
+2025-04-17 09:48:48.817 - Notification - You have earned 1 points.
+2025-04-17 09:48:48.851 - Notification - You have earned 1 points.
+2025-04-17 09:49:53.17 - Notification - You have earned 2 points.
+2025-04-17 09:49:53.195 - Notification - You have earned 2 points.
+2025-04-17 09:49:54.121 - Notification - You have earned 1 points.
+2025-04-17 09:49:54.15 - Notification - You have earned 1 points.
+2025-04-17 09:49:54.155 - Notification - You have earned 1 points.
+2025-04-17 09:49:54.179 - Notification - You have earned 1 points.
+2025-04-17 09:49:54.496 - Notification - You have earned 1 points.
+2025-04-17 09:50:33.351 - Notification - You have earned 1 points.
+2025-04-17 09:50:33.371 - Notification - You have earned 1 points.
+2025-04-17 09:50:34.686 - Notification - You have earned 1 points.
+2025-04-17 09:50:54.398 - Notification - You have earned 1 points.
+2025-04-17 09:50:54.794 - Notification - You have earned 1 points.
+2025-04-17 09:51:02.093 - Notification - You have earned 1 points.
+2025-04-17 09:51:02.132 - Notification - You have earned 1 points.
+2025-04-17 09:51:17.296 - Notification - You have earned 1 points.
+2025-04-17 09:51:17.687 - Notification - You have earned 1 points.
+2025-04-17 09:51:33.883 - Notification - You have earned 1 points.
+2025-04-17 09:51:33.904 - Notification - You have earned 1 points.
+2025-04-17 09:51:35.18 - Notification - You have earned 1 points.
+2025-04-17 09:52:06.093 - Notification - You have earned 1 points.
+2025-04-17 09:52:07.002 - Notification - You have earned 1 points.
+2025-04-17 09:52:07.381 - Notification - You have earned 1 points.
+2025-04-17 09:52:19.325 - Notification - You have earned 1 points.
+2025-04-17 09:52:19.348 - Notification - You have earned 1 points.
+2025-04-17 09:52:20.196 - Notification - You have earned 1 points.
+2025-04-17 09:52:20.569 - Notification - You have earned 1 points.
+2025-04-17 09:52:27.792 - Notification - You have earned 1 points.
+2025-04-17 09:52:27.818 - Notification - You have earned 1 points.
+2025-04-17 09:52:27.832 - Notification - You have earned 1 points.
+2025-04-17 09:52:27.856 - Notification - You have earned 1 points.
+2025-04-17 09:52:27.886 - Notification - You have earned 1 points.
+2025-04-17 09:52:27.909 - Notification - You have earned 1 points.
+2025-04-17 09:52:27.933 - Notification - You have earned 1 points.
+2025-04-17 09:52:27.959 - Notification - You have earned 1 points.
+2025-04-17 09:52:28.169 - Notification - You have earned 1 points.
+2025-04-17 09:52:32.643 - Notification - You have earned 1 points.
+2025-04-17 09:52:32.745 - Notification - You have earned 8 points.
+2025-04-17 09:52:32.754 - Notification - You have earned 6 points.
+2025-04-17 09:52:32.778 - Notification - You have earned 1 points.
+2025-04-17 09:53:12.668 - Notification - You have earned 1 points.
+2025-04-17 09:53:12.675 - Notification - You have earned 1 points.
+2025-04-17 09:53:12.697 - Notification - You have earned 1 points.
+2025-04-17 09:53:12.722 - Notification - You have earned 1 points.
+2025-04-17 09:53:12.75 - Notification - You have earned 2 points.
+2025-04-17 09:53:12.777 - Notification - You have earned 1 points.
+2025-04-17 09:53:12.803 - Notification - You have earned 2 points.
+2025-04-17 09:53:12.826 - Notification - You have earned 1 points.
+2025-04-17 09:53:12.849 - Notification - You have earned 1 points.
+2025-04-17 09:53:12.872 - Notification - You have earned 1 points.
+2025-04-17 09:53:12.895 - Notification - You have earned 1 points.
+2025-04-17 09:53:12.919 - Notification - You have earned 1 points.
+2025-04-17 09:53:12.941 - Notification - You have earned 1 points.
+2025-04-17 09:53:12.963 - Notification - You have earned 1 points.
+2025-04-17 09:53:12.987 - Notification - You have earned 1 points.
+2025-04-17 09:53:13.01 - Notification - You have earned 1 points.
+2025-04-17 09:53:13.033 - Notification - You have earned 1 points.
+2025-04-17 09:53:13.056 - Notification - You have earned 1 points.
+2025-04-17 09:53:13.079 - Notification - You have earned 1 points.
+2025-04-17 09:53:13.101 - Notification - You have earned 1 points.
+2025-04-17 09:53:13.124 - Notification - You have earned 1 points.
+2025-04-17 09:53:13.146 - Notification - You have earned 1 points.
+2025-04-17 09:53:13.169 - Notification - You have earned 1 points.
+2025-04-17 09:53:13.203 - Notification - You have earned 1 points.
+2025-04-17 09:53:13.226 - Notification - You have earned 1 points.
+2025-04-17 09:53:13.253 - Notification - You have earned 1 points.
+2025-04-17 09:53:13.275 - Notification - You have earned 1 points.
+2025-04-17 09:53:14.382 - Notification - You have earned 1 points.
+2025-04-17 09:53:14.419 - Notification - You have earned 2 points.
+2025-04-17 09:53:14.446 - Notification - You have earned 1 points.
+2025-04-17 09:53:14.47 - Notification - You have earned 1 points.
+2025-04-17 09:53:14.494 - Notification - You have earned 2 points.
+2025-04-17 09:53:14.519 - Notification - You have earned 1 points.
+2025-04-17 09:53:14.544 - Notification - You have earned 1 points.
+2025-04-17 09:53:14.552 - Notification - You have earned 1 points.
+2025-04-17 09:53:14.573 - Notification - You have earned 1 points.
+2025-04-17 09:53:14.594 - Notification - You have earned 2 points.
+2025-04-17 09:53:14.616 - Notification - You have earned 2 points.
+2025-04-17 09:54:06.713 - Notification - You have earned 1 points.
+2025-04-17 09:54:38.671 - Notification - You have earned 1 points.
+2025-04-17 09:55:07.301 - Notification - You have earned 1 points.
+2025-04-17 09:55:33.925 - Notification - You have earned 1 points.
+2025-04-17 09:55:34.3 - Notification - You have earned 1 points.
+2025-04-17 09:56:07.742 - Notification - You have earned 1 points.
+2025-04-17 09:56:07.749 - Notification - You have earned 1 points.
+2025-04-17 09:56:08.99 - Notification - You have earned 1 points.
+2025-04-17 09:56:15.629 - Notification - You have earned 1 points.
+2025-04-17 09:56:16.015 - Notification - You have earned 1 points.
+2025-04-17 09:56:31.23 - Notification - You have earned 1 points.
+2025-04-17 09:56:31.249 - Notification - You have earned 1 points.
+2025-04-17 09:56:32.062 - Notification - You have earned 1 points.
+2025-04-17 09:56:32.436 - Notification - You have earned 1 points.
+2025-04-17 09:56:46.235 - Notification - You have earned 1 points.
+2025-04-17 09:56:46.241 - Notification - You have earned 1 points.
+2025-04-17 09:56:47.054 - Notification - You have earned 1 points.
+2025-04-17 09:56:47.426 - Notification - You have earned 1 points.
+2025-04-17 09:57:32.492 - Notification - You have earned 1 points.
+2025-04-17 09:57:32.507 - Notification - You have earned 1 points.
+2025-04-17 09:57:33.754 - Notification - You have earned 1 points.
+2025-04-17 09:57:58.431 - Notification - You have earned 1 points.
+2025-04-17 09:57:58.795 - Notification - You have earned 1 points.
+2025-04-17 09:58:21.152 - Notification - You have earned 1 points.
+2025-04-17 09:58:21.161 - Notification - You have earned 1 points.
+2025-04-17 09:58:22.029 - Notification - You have earned 1 points.
+2025-04-17 09:58:22.408 - Notification - You have earned 1 points.
+2025-04-17 09:58:42.693 - Notification - You have earned 1 points.
+2025-04-17 09:58:42.711 - Notification - You have earned 1 points.
+2025-04-17 09:58:43.547 - Notification - You have earned 1 points.
+2025-04-17 09:58:43.935 - Notification - You have earned 1 points.
+2025-04-17 09:58:59.285 - Notification - You have earned 1 points.
+2025-04-17 09:58:59.309 - Notification - You have earned 1 points.
+2025-04-17 09:59:17.447 - Notification - You have earned 2 points.
+2025-04-17 09:59:33.939 - Notification - You have earned 1 points.
+2025-04-17 09:59:42.298 - Notification - You have earned 2 points.
+2025-04-17 09:59:42.666 - Notification - You have earned 1 points.
+2025-04-17 10:00:11.45 - Notification - You have earned 2 points.
+2025-04-17 10:00:11.465 - Notification - You have earned 1 points.
+2025-04-17 10:00:11.486 - Notification - You have earned 1 points.
+2025-04-17 10:00:12.863 - Notification - You have earned 1 points.
+2025-04-17 10:00:38.887 - Notification - You have earned 1 points.
+2025-04-17 10:00:38.904 - Notification - You have earned 1 points.
+2025-04-17 10:00:38.913 - Notification - You have earned 2 points.
+2025-04-17 10:00:38.934 - Notification - You have earned 2 points.
+2025-04-17 10:00:38.956 - Notification - You have earned 1 points.
+2025-04-17 10:00:38.982 - Notification - You have earned 1 points.
+2025-04-17 10:00:38.99 - Notification - You have earned 1 points.
+2025-04-17 10:00:39.011 - Notification - You have earned 1 points.
+2025-04-17 10:00:39.037 - Notification - You have earned 1 points.
+2025-04-17 10:00:39.248 - Notification - You have earned 1 points.
+2025-04-17 10:00:46.258 - Notification - You have earned 1 points.
+2025-04-17 10:00:46.268 - Notification - You have earned 2 points.
+2025-04-17 10:00:46.285 - Notification - You have earned 2 points.
+2025-04-17 10:00:46.308 - Notification - You have earned 1 points.
+2025-04-17 10:00:46.332 - Notification - You have earned 1 points.
+2025-04-17 10:00:46.356 - Notification - You have earned 1 points.
+2025-04-17 10:00:46.377 - Notification - You have earned 1 points.
+2025-04-17 10:00:46.399 - Notification - You have earned 1 points.
+2025-04-17 10:00:46.419 - Notification - You have earned 1 points.
+2025-04-17 10:00:46.631 - Notification - You have earned 1 points.
+2025-04-17 10:00:47.695 - Notification - You have earned 1 points.
+2025-04-17 10:00:47.794 - Notification - You have earned 16 points.
+2025-04-17 10:00:47.803 - Notification - You have earned 9 points.
+2025-04-17 10:00:47.825 - Notification - You have earned 4 points.
+2025-04-17 10:00:47.846 - Notification - You have earned 1 points.
+2025-04-17 10:01:59.027 - Notification - You have earned 2 points.
+2025-04-17 10:01:59.038 - Notification - You have earned 2 points.
+2025-04-17 10:01:59.06 - Notification - You have earned 1 points.
+2025-04-17 10:01:59.084 - Notification - You have earned 1 points.
+2025-04-17 10:02:31.397 - Notification - You have earned 1 points.
+2025-04-17 10:02:32.69 - Notification - You have earned 1 points.
+2025-04-17 10:02:50.408 - Notification - You have earned 1 points.
+2025-04-17 10:03:09.784 - Notification - You have earned 1 points.
+2025-04-17 10:03:10.146 - Notification - You have earned 1 points.
+2025-04-17 10:03:15.741 - Notification - You have earned 1 points.
+2025-04-17 10:03:21.081 - Notification - You have earned 1 points.
+2025-04-17 10:03:21.454 - Notification - You have earned 1 points.
+2025-04-17 10:03:37.539 - Notification - You have earned 2 points.
+2025-04-17 10:03:37.565 - Notification - You have earned 1 points.
+2025-04-17 10:03:38.442 - Notification - You have earned 2 points.
+2025-04-17 10:03:38.817 - Notification - You have earned 1 points.
+2025-04-17 10:03:41.224 - Notification - You have earned 1 points.
+2025-04-17 10:03:41.256 - Notification - You have earned 1 points.
+2025-04-17 10:03:41.273 - Notification - You have earned 2 points.
+2025-04-17 10:03:41.34 - Notification - You have earned 2 points.
+2025-04-17 10:03:41.346 - Notification - You have earned 2 points.
+2025-04-17 10:03:41.369 - Notification - You have earned 1 points.
+2025-04-17 10:03:41.392 - Notification - You have earned 1 points.
+2025-04-17 10:03:41.418 - Notification - You have earned 1 points.
+2025-04-17 10:03:41.44 - Notification - You have earned 1 points.
+2025-04-17 10:03:41.468 - Notification - You have earned 1 points.
+2025-04-17 10:03:41.475 - Notification - You have earned 1 points.
+2025-04-17 10:03:41.502 - Notification - You have earned 1 points.
+2025-04-17 10:03:41.61 - Notification - You have earned 1 points.
+2025-04-17 10:04:18.739 - Notification - You have earned 1 points.
+2025-04-17 10:04:18.757 - Notification - You have earned 1 points.
+2025-04-17 10:04:18.777 - Notification - You have earned 1 points.
+2025-04-17 10:04:18.788 - Notification - You have earned 1 points.
+2025-04-17 10:04:18.817 - Notification - You have earned 1 points.
+2025-04-17 10:04:18.838 - Notification - You have earned 2 points.
+2025-04-17 10:04:18.865 - Notification - You have earned 2 points.
+2025-04-17 10:04:18.885 - Notification - You have earned 1 points.
+2025-04-17 10:04:18.908 - Notification - You have earned 1 points.
+2025-04-17 10:04:18.93 - Notification - You have earned 1 points.
+2025-04-17 10:04:18.952 - Notification - You have earned 1 points.
+2025-04-17 10:04:18.979 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.001 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.025 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.048 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.071 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.092 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.114 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.135 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.157 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.179 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.2 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.222 - Notification - You have earned 2 points.
+2025-04-17 10:04:19.243 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.266 - Notification - You have earned 2 points.
+2025-04-17 10:04:19.288 - Notification - You have earned 2 points.
+2025-04-17 10:04:19.31 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.331 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.352 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.374 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.396 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.417 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.44 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.464 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.486 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.52 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.54 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.564 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.585 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.605 - Notification - You have earned 2 points.
+2025-04-17 10:04:19.625 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.646 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.666 - Notification - You have earned 2 points.
+2025-04-17 10:04:19.703 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.725 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.745 - Notification - You have earned 2 points.
+2025-04-17 10:04:19.766 - Notification - You have earned 1 points.
+2025-04-17 10:04:19.786 - Notification - You have earned 2 points.
+2025-04-17 10:04:25.815 - Notification - You have earned 1 points.
+2025-04-17 10:04:25.843 - Notification - You have earned 1 points.
+2025-04-17 10:04:25.849 - Notification - You have earned 1 points.
+2025-04-17 10:04:25.87 - Notification - You have earned 1 points.
+2025-04-17 10:04:25.892 - Notification - You have earned 2 points.
+2025-04-17 10:04:25.914 - Notification - You have earned 2 points.
+2025-04-17 10:04:25.938 - Notification - You have earned 1 points.
+2025-04-17 10:04:25.959 - Notification - You have earned 1 points.
+2025-04-17 10:04:25.981 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.002 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.026 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.048 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.068 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.09 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.129 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.137 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.157 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.179 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.2 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.221 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.243 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.264 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.286 - Notification - You have earned 2 points.
+2025-04-17 10:04:26.308 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.329 - Notification - You have earned 2 points.
+2025-04-17 10:04:26.35 - Notification - You have earned 2 points.
+2025-04-17 10:04:26.371 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.393 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.414 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.434 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.455 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.476 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.497 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.519 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.542 - Notification - You have earned 1 points.
+2025-04-17 10:04:26.582 - Notification - You have earned 1 points.
+2025-04-17 10:04:27.828 - Notification - You have earned 1 points.
+2025-04-17 10:04:27.887 - Notification - You have earned 1 points.
+2025-04-17 10:04:27.911 - Notification - You have earned 1 points.
+2025-04-17 10:04:27.937 - Notification - You have earned 2 points.
+2025-04-17 10:04:27.975 - Notification - You have earned 1 points.
+2025-04-17 10:04:28.009 - Notification - You have earned 1 points.
+2025-04-17 10:04:28.033 - Notification - You have earned 2 points.
+2025-04-17 10:04:28.057 - Notification - You have earned 1 points.
+2025-04-17 10:04:28.068 - Notification - You have earned 1 points.
+2025-04-17 10:04:28.094 - Notification - You have earned 2 points.
+2025-04-17 10:04:28.117 - Notification - You have earned 2 points.
+2025-04-17 10:04:28.139 - Notification - You have earned 1 points.
+2025-04-17 10:04:28.162 - Notification - You have earned 1 points.
+2025-04-17 10:05:23.73 - Notification - You have earned 1 points.
+2025-04-17 10:06:31.064 - Notification - You have earned 1 points.
+2025-04-17 10:06:32.291 - Notification - You have earned 1 points.
+2025-04-17 10:06:41.765 - Notification - You have earned 1 points.
+2025-04-17 10:06:49.19 - Notification - You have earned 1 points.
+2025-04-17 10:06:49.57 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.104 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.128 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.136 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.157 - Notification - You have earned 2 points.
+2025-04-17 10:06:54.185 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.209 - Notification - You have earned 2 points.
+2025-04-17 10:06:54.234 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.257 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.283 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.29 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.312 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.335 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.358 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.38 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.403 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.425 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.446 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.469 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.49 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.512 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.533 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.555 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.578 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.6 - Notification - You have earned 2 points.
+2025-04-17 10:06:54.621 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.642 - Notification - You have earned 2 points.
+2025-04-17 10:06:54.664 - Notification - You have earned 2 points.
+2025-04-17 10:06:54.686 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.707 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.728 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.751 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.775 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.799 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.819 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.854 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.861 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.881 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.902 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.922 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.956 - Notification - You have earned 1 points.
+2025-04-17 10:06:54.963 - Notification - You have earned 2 points.
+2025-04-17 10:06:54.983 - Notification - You have earned 1 points.
+2025-04-17 10:06:55.003 - Notification - You have earned 1 points.
+2025-04-17 10:06:55.023 - Notification - You have earned 2 points.
+2025-04-17 10:06:55.043 - Notification - You have earned 1 points.
+2025-04-17 10:06:55.066 - Notification - You have earned 1 points.
+2025-04-17 10:06:55.087 - Notification - You have earned 2 points.
+2025-04-17 10:06:55.109 - Notification - You have earned 2 points.
+2025-04-17 10:06:55.132 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.019 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.068 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.152 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.212 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.23 - Notification - You have earned 2 points.
+2025-04-17 10:07:04.26 - Notification - You have earned 2 points.
+2025-04-17 10:07:04.29 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.325 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.384 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.41 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.436 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.463 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.491 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.514 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.539 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.563 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.588 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.612 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.637 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.658 - Notification - You have earned 1 points.
+2025-04-17 10:07:04.679 - Notification - You have earned 1 points.
+2025-04-17 10:07:07.634 - Notification - You have earned 1 points.
+2025-04-17 10:07:07.946 - Notification - You have earned 1 points.
+2025-04-17 10:07:08.454 - Notification - You have earned 2 points.
+2025-04-17 10:07:08.66 - Notification - You have earned 1 points.
+2025-04-17 10:07:08.84 - Notification - You have earned 2 points.
+2025-04-17 10:07:09.02 - Notification - You have earned 2 points.
+2025-04-17 10:07:09.162 - Notification - You have earned 1 points.
+2025-04-17 10:07:09.306 - Notification - You have earned 1 points.
+2025-04-17 10:07:09.456 - Notification - You have earned 1 points.
+2025-04-17 10:07:09.624 - Notification - You have earned 1 points.
+2025-04-17 10:07:09.768 - Notification - You have earned 1 points.
+2025-04-17 10:07:09.919 - Notification - You have earned 1 points.
+2025-04-17 10:07:10.057 - Notification - You have earned 1 points.
+2025-04-17 10:07:10.079 - Notification - You have earned 1 points.
+2025-04-17 10:07:10.099 - Notification - You have earned 1 points.
+2025-04-17 10:07:10.126 - Notification - You have earned 1 points.
+2025-04-17 10:07:10.149 - Notification - You have earned 1 points.
+2025-04-17 10:07:10.17 - Notification - You have earned 1 points.
+2025-04-17 10:07:10.177 - Notification - You have earned 1 points.
+2025-04-17 10:07:10.2 - Notification - You have earned 1 points.
+2025-04-17 10:07:10.225 - Notification - You have earned 1 points.
+2025-04-17 10:07:10.246 - Notification - You have earned 1 points.
+2025-04-17 10:07:10.253 - Notification - You have earned 2 points.
+2025-04-17 10:07:10.271 - Notification - You have earned 2 points.
+2025-04-17 10:07:10.29 - Notification - You have earned 2 points.
+2025-04-17 10:07:10.309 - Notification - You have earned 2 points.
+2025-04-17 10:07:10.33 - Notification - You have earned 1 points.
+2025-04-17 10:07:10.349 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.449 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.469 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.479 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.501 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.524 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.548 - Notification - You have earned 2 points.
+2025-04-17 10:07:16.572 - Notification - You have earned 2 points.
+2025-04-17 10:07:16.596 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.62 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.643 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.667 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.69 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.713 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.737 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.763 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.788 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.815 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.838 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.862 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.885 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.908 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.931 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.954 - Notification - You have earned 1 points.
+2025-04-17 10:07:16.979 - Notification - You have earned 2 points.
+2025-04-17 10:07:17.004 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.028 - Notification - You have earned 2 points.
+2025-04-17 10:07:17.051 - Notification - You have earned 2 points.
+2025-04-17 10:07:17.074 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.102 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.126 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.152 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.175 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.386 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.426 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.455 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.476 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.483 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.505 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.526 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.545 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.566 - Notification - You have earned 2 points.
+2025-04-17 10:07:17.587 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.608 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.628 - Notification - You have earned 2 points.
+2025-04-17 10:07:17.647 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.667 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.687 - Notification - You have earned 2 points.
+2025-04-17 10:07:17.707 - Notification - You have earned 1 points.
+2025-04-17 10:07:17.727 - Notification - You have earned 2 points.
+2025-04-17 10:07:30.904 - Debug - POST 4 files to https://gamification.thibber.be/api/v1/experimentData :- Coverage.csv (336 bytes)
+- EvaluationLogs.txt (42182 bytes)
+- AchievementsReport.csv (26892 bytes)
+- Actions.csv (66709 bytes)
+
