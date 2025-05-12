@@ -6,9 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="214d0788-f228-478e-88ba-b7a74479e1fe" name="Changes" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/analysis/Pitest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/analysis/Pitest.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/code-analysis/jacoco.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/code-analysis/jacoco.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/analysis/JaCoCo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/analysis/JaCoCo.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/arrange data/JaCoCo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/arrange data/JaCoCo.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/arrange data/Pitest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/arrange data/Pitest.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
