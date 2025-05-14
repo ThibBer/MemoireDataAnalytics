@@ -5,32 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="214d0788-f228-478e-88ba-b7a74479e1fe" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/generated/database/users_send_mismatch.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/generated/database/users_send_mismatch_less_2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/analysis/StatsJaCoCo&amp;Pitest.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MemoireDataAnalytics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MemoireDataAnalytics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/figures/pitest/mutation_score_by_game_mode.png" beforeDir="false" afterPath="$PROJECT_DIR$/generated/figures/pitest/mutation_score_by_game_mode.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/uploads/9af94b6b-259c-4799-8c79-5960311627bf/2025-04-17T07-26-52.491Z/Actions.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/uploads/9af94b6b-259c-4799-8c79-5960311627bf/2025-04-17T07-26-52.491Z/EvaluationLogs.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/uploads/9af94b6b-259c-4799-8c79-5960311627bf/2025-04-17T07-26-52.491Z/sourceClasses.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/uploads/9af94b6b-259c-4799-8c79-5960311627bf/2025-04-17T07-26-52.491Z/testClasses.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/uploads/9af94b6b-259c-4799-8c79-5960311627bf/2025-04-17T08-05-27.514Z/Actions.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/uploads/9af94b6b-259c-4799-8c79-5960311627bf/2025-04-17T08-05-27.514Z/EvaluationLogs.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/uploads/9af94b6b-259c-4799-8c79-5960311627bf/2025-04-17T08-05-27.514Z/sourceClasses.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/uploads/9af94b6b-259c-4799-8c79-5960311627bf/2025-04-17T08-05-27.514Z/testClasses.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/uploads/de176a06-3fc9-4325-8c81-f131f193c1c4/2025-04-17T07-24-52.737Z/Actions.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/uploads/de176a06-3fc9-4325-8c81-f131f193c1c4/2025-04-17T07-24-52.737Z/EvaluationLogs.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/uploads/de176a06-3fc9-4325-8c81-f131f193c1c4/2025-04-17T07-24-52.737Z/sourceClasses.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/uploads/de176a06-3fc9-4325-8c81-f131f193c1c4/2025-04-17T07-24-52.737Z/testClasses.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/uploads/de176a06-3fc9-4325-8c81-f131f193c1c4/2025-04-17T08-05-20.497Z/AchievementsReport.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/uploads/de176a06-3fc9-4325-8c81-f131f193c1c4/2025-04-17T08-05-20.497Z/Actions.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/uploads/de176a06-3fc9-4325-8c81-f131f193c1c4/2025-04-17T08-05-20.497Z/EvaluationLogs.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/uploads/de176a06-3fc9-4325-8c81-f131f193c1c4/2025-04-17T08-05-20.497Z/sourceClasses.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generated/uploads/de176a06-3fc9-4325-8c81-f131f193c1c4/2025-04-17T08-05-20.497Z/testClasses.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/figures/likert/Leaderboard_Achievement.png" beforeDir="false" afterPath="$PROJECT_DIR$/generated/figures/likert/Leaderboard_Achievement.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/figures/likert/Pas du tout_Tout à fait.png" beforeDir="false" afterPath="$PROJECT_DIR$/generated/figures/likert/Pas du tout_Tout à fait.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/analysis/Forms.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/analysis/Forms.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/analysis/JaCoCo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/analysis/JaCoCo.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notebooks/analysis/Pitest.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/analysis/Pitest.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/arrange data/Data for code analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/arrange data/Data for code analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/arrange data/JaCoCo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/arrange data/JaCoCo.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/arrange data/Database data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/arrange data/Database data.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +40,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/ThibBer/MemoireDataAnalytics.git&quot;,
-    &quot;accountId&quot;: &quot;fa239a47-1236-4e38-b581-f97b12735ca0&quot;
+    &quot;accountId&quot;: &quot;8a60f788-94a3-4838-9ef7-906f1ad2c363&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -115,7 +98,13 @@
       <recent name="C:\Users\thiba\Documents\DataspellProjects\MemoireDataAnalytics\notebooks\analysis" />
     </key>
   </component>
-  <component name="RunManager" selected="PowerShell.Copy figures to thesis">
+  <component name="RunManager">
+    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings />
+      </deployment>
+      <method v="2" />
+    </configuration>
     <configuration name="Code analyzer.ps1" type="PowerShellRunType" factoryName="PowerShell" temporary="true" scriptUrl="$PROJECT_DIR$/CodeAnalyzer.ps1" executablePath="$PROJECT_DIR$/../../../../../Program Files/PowerShell/7/pwsh.exe">
       <envs />
       <method v="2" />
@@ -124,21 +113,6 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
-      <deployment type="docker-compose.yml">
-        <settings />
-      </deployment>
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="PowerShell.Copy figures to thesis" />
-      <item itemvalue="PowerShell.Code analyzer.ps1" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="PowerShell.Code analyzer.ps1" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
