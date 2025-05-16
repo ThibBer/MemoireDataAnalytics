@@ -9,7 +9,6 @@
 - [code-analysis](generated/code-analysis) : fichiers générés par l'analyse de code
 - [database](generated/database) : fichiers généres à partir des informations de la BDD
 - [forms](generated/forms) : fichiers générés à partir des formulaires
-- [reports](generated/reports) : reports générés à partir des uploads grace au script Powershell [CodeAnalyser.ps1](CodeAnalyzer.ps1) (le projet contient des classes avec des bugs crée exprès)
 - [reports-no-bug](generated/reports-no-bug) : reports générés à partir des uploads grace au script Powershell [CodeAnalyser.ps1](CodeAnalyzer.ps1) (le projet contient des classes sans bugs)
 
 [notebooks](notebooks) : notebook Jupyter
